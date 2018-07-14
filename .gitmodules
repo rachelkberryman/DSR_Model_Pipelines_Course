@@ -1,0 +1,3 @@
+[submodule "ipytest"]
+	path = ipytest
+	url = https://github.com/chmp/ipytest.git
