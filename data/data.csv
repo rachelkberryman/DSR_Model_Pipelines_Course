@@ -1,741 +1,741 @@
-ID,Reason for absence,Month of absence,Day of the week,Transportation expense,Distance from Residence to Work,Service time,Age,Work load Average/day ,Hit target,Disciplinary failure,Education,Number of Children,Social drinker,Social smoker,Pet,Weight,Height,Body mass index,Absenteeism time in hours
-11,Patient follow-up,7,Tuesday,289,36,13,33,239.554,97,0,High school,2,1,0,1,90,172,30,4
-36,No reason given,7,Tuesday,118,13,18,50,239.554,97,1,High school,1,1,0,0,98,178,31,0
-3,Blood donation,7,Wednesday,179,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,2
-7,Diseases of the eye and adnexa,7,Thursday,279,5,14,39,239.554,97,0,High school,2,1,1,0,68,168,24,4
-11,Blood donation,7,Thursday,289,36,13,33,239.554,97,0,High school,2,1,0,1,90,172,30,2
-3,Blood donation,7,Friday,179,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,2
-10,Medical consultation,7,Friday,361,52,3,28,239.554,97,0,High school,1,1,0,4,80,172,27,8
-20,Blood donation,7,Friday,260,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,4
-14,"Injury, poisoning, and certain other consequences of external cause",7,Monday,155,12,14,34,239.554,97,0,High school,2,1,0,0,95,196,25,40
-1,Medical consultation,7,Monday,235,11,14,37,239.554,97,0,Postgraduate,1,0,0,1,88,172,29,8
-20,Certain Infectious and parasitic diseases,7,Monday,260,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,8
-20,Certain Infectious and parasitic diseases,7,Tuesday,260,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,8
-20,Diseases of the digestive system,7,Wednesday,260,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,8
-3,Diseases of the digestive system,7,Wednesday,179,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,1
-3,Blood donation,7,Wednesday,179,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,4
-24,Diseases of the genitourinary system,7,Friday,246,25,16,41,239.554,97,0,High school,0,1,0,0,67,170,23,8
-3,Blood donation,7,Friday,179,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,2
-3,Factors influencing health status and contact with health services,7,Monday,179,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,8
-6,Diseases of the digestive system,7,Thursday,189,29,13,33,239.554,97,0,High school,2,0,0,2,69,167,25,8
-33,Blood donation,8,Wednesday,248,25,14,47,205.917,92,0,High school,2,0,0,1,86,165,32,2
-18,Diseases of the respiratory system,8,Wednesday,330,16,4,28,205.917,92,0,Graduate,0,0,0,0,84,182,25,8
-3,Diseases of the digestive system,8,Monday,179,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,1
-10,Diseases of the muskuloskeletal system and connective tissue,8,Monday,361,52,3,28,205.917,92,0,High school,1,1,0,4,80,172,27,40
-20,Dental Consultation,8,Friday,260,50,11,36,205.917,92,0,High school,4,1,0,0,65,168,23,4
-11,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Monday,289,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,8
-10,Unjustified absence,8,Monday,361,52,3,28,205.917,92,0,High school,1,1,0,4,80,172,27,7
-11,Blood donation,8,Tuesday,289,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,1
-30,Dental Consultation,8,Wednesday,157,27,6,29,205.917,92,0,High school,0,1,1,0,75,185,22,4
-11,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Wednesday,289,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,8
-3,Blood donation,8,Friday,179,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,2
-3,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Monday,179,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,8
-2,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Thursday,235,29,12,48,205.917,92,0,High school,1,0,1,5,88,163,33,8
-1,Blood donation,8,Thursday,235,11,14,37,205.917,92,0,Postgraduate,1,0,0,1,88,172,29,4
-2,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Monday,235,29,12,48,205.917,92,0,High school,1,0,1,5,88,163,33,8
-3,Blood donation,8,Monday,179,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,2
-10,Blood donation,8,Monday,361,52,3,28,205.917,92,0,High school,1,1,0,4,80,172,27,1
-11,Laboratory examination,8,Tuesday,289,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,8
-19,Diseases of the digestive system,8,Thursday,291,50,12,32,205.917,92,0,High school,0,1,0,0,65,169,23,4
-2,Dental Consultation,8,Friday,235,29,12,48,205.917,92,0,High school,1,0,1,5,88,163,33,8
-20,Blood donation,8,Friday,260,50,11,36,205.917,92,0,High school,4,1,0,0,65,168,23,4
-27,Blood donation,9,Tuesday,184,42,7,27,241.476,92,0,High school,0,0,0,0,58,167,21,2
-34,Blood donation,9,Monday,118,10,10,37,241.476,92,0,High school,0,0,0,0,83,172,28,4
-3,Blood donation,9,Tuesday,179,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,4
-5,"Injury, poisoning, and certain other consequences of external cause",9,Tuesday,235,20,13,43,241.476,92,0,High school,1,1,0,0,106,167,38,8
-14,Blood donation,9,Wednesday,155,12,14,34,241.476,92,0,High school,2,1,0,0,95,196,25,2
-34,Blood donation,9,Monday,118,10,10,37,241.476,92,0,High school,0,0,0,0,83,172,28,3
-3,Blood donation,9,Tuesday,179,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,3
-15,Blood donation,9,Thursday,291,31,12,40,241.476,92,0,High school,1,1,0,1,73,171,25,4
-20,Medical consultation,9,Friday,260,50,11,36,241.476,92,0,High school,4,1,0,0,65,168,23,8
-15,Diseases of the genitourinary system,9,Monday,291,31,12,40,241.476,92,0,High school,1,1,0,1,73,171,25,32
-20,No reason given,9,Monday,260,50,11,36,241.476,92,1,High school,4,1,0,0,65,168,23,0
-29,No reason given,9,Monday,225,26,9,28,241.476,92,1,High school,1,0,0,2,69,169,24,0
-28,Blood donation,9,Tuesday,225,26,9,28,241.476,92,0,High school,1,0,0,2,69,169,24,2
-34,Blood donation,9,Tuesday,118,10,10,37,241.476,92,0,High school,0,0,0,0,83,172,28,2
-11,No reason given,9,Tuesday,289,36,13,33,241.476,92,1,High school,2,1,0,1,90,172,30,0
-36,No reason given,9,Tuesday,118,13,18,50,241.476,92,1,High school,1,1,0,0,98,178,31,0
-28,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",9,Wednesday,225,26,9,28,241.476,92,0,High school,1,0,0,2,69,169,24,3
-3,Blood donation,9,Wednesday,179,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,3
-13,No reason given,9,Wednesday,369,17,12,31,241.476,92,1,High school,3,1,0,0,70,169,25,0
-33,Blood donation,9,Friday,248,25,14,47,241.476,92,0,High school,2,0,0,1,86,165,32,1
-3,Blood donation,9,Friday,179,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,3
-20,Blood donation,9,Friday,260,50,11,36,241.476,92,0,High school,4,1,0,0,65,168,23,4
-3,Blood donation,10,Tuesday,179,51,18,38,253.465,93,0,High school,0,1,0,0,89,170,31,3
-34,Blood donation,10,Tuesday,118,10,10,37,253.465,93,0,High school,0,0,0,0,83,172,28,3
-36,No reason given,10,Wednesday,118,13,18,50,253.465,93,1,High school,1,1,0,0,98,178,31,0
-22,Blood donation,10,Thursday,179,26,9,30,253.465,93,0,Postgraduate,0,0,0,0,56,171,19,1
-3,Blood donation,10,Friday,179,51,18,38,253.465,93,0,High school,0,1,0,0,89,170,31,3
-28,Blood donation,10,Friday,225,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,3
-34,Blood donation,10,Tuesday,118,10,10,37,253.465,93,0,High school,0,0,0,0,83,172,28,3
-28,Blood donation,10,Wednesday,225,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,2
-33,Blood donation,10,Wednesday,248,25,14,47,253.465,93,0,High school,2,0,0,1,86,165,32,2
-15,Blood donation,10,Thursday,291,31,12,40,253.465,93,0,High school,1,1,0,1,73,171,25,5
-3,Blood donation,10,Wednesday,179,51,18,38,253.465,93,0,High school,0,1,0,0,89,170,31,8
-28,Blood donation,10,Wednesday,225,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,3
-20,"Injury, poisoning, and certain other consequences of external cause",10,Thursday,260,50,11,36,253.465,93,0,High school,4,1,0,0,65,168,23,16
-15,Diseases of the genitourinary system,10,Tuesday,291,31,12,40,253.465,93,0,High school,1,1,0,1,73,171,25,8
-28,Dental Consultation,10,Tuesday,225,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,2
-11,Patient follow-up,10,Wednesday,289,36,13,33,253.465,93,0,High school,2,1,0,1,90,172,30,8
-10,Blood donation,10,Friday,361,52,3,28,253.465,93,0,High school,1,1,0,4,80,172,27,1
-20,Dental Consultation,10,Friday,260,50,11,36,253.465,93,0,High school,4,1,0,0,65,168,23,3
-3,Blood donation,11,Thursday,179,51,18,38,306.345,93,0,High school,0,1,0,0,89,170,31,1
-28,Blood donation,11,Wednesday,225,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,1
-3,Diseases of the muskuloskeletal system and connective tissue,11,Thursday,179,51,18,38,306.345,93,0,High school,0,1,0,0,89,170,31,8
-17,Factors influencing health status and contact with health services,11,Thursday,179,22,17,40,306.345,93,0,Graduate,2,0,1,0,63,170,22,8
-15,Blood donation,11,Thursday,291,31,12,40,306.345,93,0,High school,1,1,0,1,73,171,25,5
-14,Diseases of the respiratory system,11,Monday,155,12,14,34,306.345,93,0,High school,2,1,0,0,95,196,25,32
-6,Medical consultation,11,Monday,189,29,13,33,306.345,93,0,High school,2,0,0,2,69,167,25,8
-15,Diseases of the genitourinary system,11,Monday,291,31,12,40,306.345,93,0,High school,1,1,0,1,73,171,25,40
-28,Blood donation,11,Wednesday,225,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,1
-14,Diseases of the nervous system,11,Friday,155,12,14,34,306.345,93,0,High school,2,1,0,0,95,196,25,8
-28,Blood donation,11,Wednesday,225,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,3
-17,Factors influencing health status and contact with health services,11,Wednesday,179,22,17,40,306.345,93,0,Graduate,2,0,1,0,63,170,22,8
-28,Diseases of the muskuloskeletal system and connective tissue,11,Friday,225,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,3
-20,Dental Consultation,11,Friday,260,50,11,36,306.345,93,0,High school,4,1,0,0,65,168,23,4
-33,Dental Consultation,11,Monday,248,25,14,47,306.345,93,0,High school,2,0,0,1,86,165,32,1
-28,Dental Consultation,11,Tuesday,225,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,3
-11,Diseases of the eye and adnexa,11,Wednesday,289,36,13,33,306.345,93,0,High school,2,1,0,1,90,172,30,24
-15,Blood donation,11,Thursday,291,31,12,40,306.345,93,0,High school,1,1,0,1,73,171,25,3
-33,Blood donation,12,Tuesday,248,25,14,47,261.306,97,0,High school,2,0,0,1,86,165,32,1
-34,"Injury, poisoning, and certain other consequences of external cause",12,Tuesday,118,10,10,37,261.306,97,0,High school,0,0,0,0,83,172,28,64
-36,Blood donation,12,Wednesday,118,13,18,50,261.306,97,0,High school,1,1,0,0,98,178,31,2
-1,Patient follow-up,12,Wednesday,235,11,14,37,261.306,97,0,Postgraduate,1,0,0,1,88,172,29,8
-28,Blood donation,12,Thursday,225,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,2
-20,Patient follow-up,12,Friday,260,50,11,36,261.306,97,0,High school,4,1,0,0,65,168,23,8
-34,"Injury, poisoning, and certain other consequences of external cause",12,Tuesday,118,10,10,37,261.306,97,0,High school,0,0,0,0,83,172,28,56
-10,Medical consultation,12,Wednesday,361,52,3,28,261.306,97,0,High school,1,1,0,4,80,172,27,8
-28,Dental Consultation,12,Thursday,225,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,3
-20,Dental Consultation,12,Friday,260,50,11,36,261.306,97,0,High school,4,1,0,0,65,168,23,3
-28,Blood donation,12,Tuesday,225,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,2
-10,Medical consultation,12,Wednesday,361,52,3,28,261.306,97,0,High school,1,1,0,4,80,172,27,8
-34,Physiotherapy,12,Friday,118,10,10,37,261.306,97,0,High school,0,0,0,0,83,172,28,2
-24,"Injury, poisoning, and certain other consequences of external cause",12,Friday,246,25,16,41,261.306,97,0,High school,0,1,0,0,67,170,23,8
-28,Blood donation,12,Friday,225,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,2
-28,Blood donation,1,Wednesday,225,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,1
-34,"Injury, poisoning, and certain other consequences of external cause",1,Monday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,1
-34,Physiotherapy,1,Tuesday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,1
-14,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,155,12,14,34,308.593,95,0,High school,2,1,0,0,95,196,25,8
-28,Physiotherapy,1,Wednesday,225,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,2
-27,Blood donation,1,Thursday,184,42,7,27,308.593,95,0,High school,0,0,0,0,58,167,21,2
-28,Dental Consultation,1,Thursday,225,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,2
-28,Physiotherapy,1,Friday,225,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,1
-34,Physiotherapy,1,Monday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-28,Physiotherapy,1,Tuesday,225,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,2
-34,Physiotherapy,1,Tuesday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-34,Physiotherapy,1,Wednesday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-34,Physiotherapy,1,Thursday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-34,Physiotherapy,1,Friday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-34,Physiotherapy,1,Monday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-34,Physiotherapy,1,Tuesday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-22,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,179,26,9,30,308.593,95,0,Postgraduate,0,0,0,0,56,171,19,8
-11,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,289,36,13,33,308.593,95,0,High school,2,1,0,1,90,172,30,8
-34,Physiotherapy,1,Wednesday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-27,Blood donation,1,Thursday,184,42,7,27,308.593,95,0,High school,0,0,0,0,58,167,21,2
-34,Physiotherapy,1,Thursday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
-34,Physiotherapy,1,Monday,118,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,0
-28,Blood donation,1,Tuesday,225,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,1
-11,Medical consultation,1,Thursday,289,36,13,33,308.593,95,0,High school,2,1,0,1,90,172,30,3
-27,Blood donation,2,Friday,184,42,7,27,302.585,99,0,High school,0,0,0,0,58,167,21,1
-24,Certain Infectious and parasitic diseases,2,Wednesday,246,25,16,41,302.585,99,0,High school,0,1,0,0,67,170,23,8
-3,Diseases of the digestive system,2,Wednesday,179,51,18,38,302.585,99,0,High school,0,1,0,0,89,170,31,8
-14,Dental Consultation,2,Thursday,155,12,14,34,302.585,99,0,High school,2,1,0,0,95,196,25,2
-6,Blood donation,2,Thursday,189,29,13,33,302.585,99,0,High school,2,0,0,2,69,167,25,8
-20,Dental Consultation,2,Friday,260,50,11,36,302.585,99,0,High school,4,1,0,0,65,168,23,2
-11,Medical consultation,2,Friday,289,36,13,33,302.585,99,0,High school,2,1,0,1,90,172,30,8
-31,Diseases of the digestive system,2,Monday,388,15,9,50,302.585,99,0,High school,0,0,0,0,76,178,24,8
-31,Certain Infectious and parasitic diseases,2,Tuesday,388,15,9,50,302.585,99,0,High school,0,0,0,0,76,178,24,8
-28,Dental Consultation,2,Monday,225,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,2
-28,Blood donation,2,Tuesday,225,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,2
-22,Blood donation,2,Tuesday,179,26,9,30,302.585,99,0,Postgraduate,0,0,0,0,56,171,19,1
-27,Blood donation,2,Tuesday,184,42,7,27,302.585,99,0,High school,0,0,0,0,58,167,21,8
-28,Unjustified absence,2,Thursday,225,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,3
-18,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",2,Monday,330,16,4,28,302.585,99,0,Graduate,0,0,0,0,84,182,25,8
-18,Blood donation,2,Tuesday,330,16,4,28,302.585,99,0,Graduate,0,0,0,0,84,182,25,1
-28,Blood donation,2,Wednesday,225,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,1
-6,"Injury, poisoning, and certain other consequences of external cause",2,Thursday,189,29,13,33,302.585,99,0,High school,2,0,0,2,69,167,25,8
-19,Dental Consultation,3,Tuesday,291,50,12,32,343.25300000000004,95,0,High school,0,1,0,0,65,169,23,2
-20,"Injury, poisoning, and certain other consequences of external cause",3,Tuesday,260,50,11,36,343.25300000000004,95,0,High school,4,1,0,0,65,168,23,8
-30,"Injury, poisoning, and certain other consequences of external cause",3,Tuesday,157,27,6,29,343.25300000000004,95,0,High school,0,1,1,0,75,185,22,3
-17,"Congenital malformations, deformations, and chromosomal abnormalities",3,Tuesday,179,22,17,40,343.25300000000004,95,0,Graduate,2,0,1,0,63,170,22,8
-15,Medical consultation,3,Wednesday,291,31,12,40,343.25300000000004,95,0,High school,1,1,0,1,73,171,25,8
-20,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,260,50,11,36,343.25300000000004,95,0,High school,4,1,0,0,65,168,23,8
-22,Diseases of the muskuloskeletal system and connective tissue,3,Thursday,179,26,9,30,343.25300000000004,95,0,Postgraduate,0,0,0,0,56,171,19,8
-33,Diseases of the genitourinary system,3,Friday,248,25,14,47,343.25300000000004,95,0,High school,2,0,0,1,86,165,32,3
-20,Diseases of the muskuloskeletal system and connective tissue,3,Friday,260,50,11,36,343.25300000000004,95,0,High school,4,1,0,0,65,168,23,40
-17,Diseases of the digestive system,3,Monday,179,22,17,40,343.25300000000004,95,0,Graduate,2,0,1,0,63,170,22,40
-14,Certain Infectious and parasitic diseases,3,Monday,155,12,14,34,343.25300000000004,95,0,High school,2,1,0,0,95,196,25,16
-20,Patient follow-up,3,Monday,260,50,11,36,343.25300000000004,95,0,High school,4,1,0,0,65,168,23,16
-14,Diseases of the muskuloskeletal system and connective tissue,3,Tuesday,155,12,14,34,343.25300000000004,95,0,High school,2,1,0,0,95,196,25,8
-11,Diseases of the nervous system,3,Thursday,289,36,13,33,343.25300000000004,95,0,High school,2,1,0,1,90,172,30,8
-17,Diseases of the ear and mastoid process,3,Thursday,179,22,17,40,343.25300000000004,95,0,Graduate,2,0,1,0,63,170,22,8
-20,Dental Consultation,3,Friday,260,50,11,36,343.25300000000004,95,0,High school,4,1,0,0,65,168,23,4
-28,Blood donation,3,Friday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,1
-7,Diseases of the genitourinary system,3,Monday,279,5,14,39,343.25300000000004,95,0,High school,2,1,1,0,68,168,24,8
-3,Diseases of the muskuloskeletal system and connective tissue,3,Tuesday,179,51,18,38,343.25300000000004,95,0,High school,0,1,0,0,89,170,31,24
-28,Blood donation,3,Wednesday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,2
-28,Diseases of the digestive system,3,Monday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,8
-22,Diseases of the muskuloskeletal system and connective tissue,3,Monday,179,26,9,30,343.25300000000004,95,0,Postgraduate,0,0,0,0,56,171,19,1
-28,Diseases of the digestive system,3,Tuesday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,8
-28,Diseases of the digestive system,3,Wednesday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,16
-3,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,179,51,18,38,343.25300000000004,95,0,High school,0,1,0,0,89,170,31,3
-7,Diseases of the genitourinary system,3,Thursday,279,5,14,39,343.25300000000004,95,0,High school,2,1,1,0,68,168,24,16
-28,Dental Consultation,3,Friday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,2
-33,Diseases of the genitourinary system,3,Friday,248,25,14,47,343.25300000000004,95,0,High school,2,0,0,1,86,165,32,3
-28,Dental Consultation,3,Monday,225,26,9,28,343.25300000000004,95,0,High school,1,0,0,2,69,169,24,1
-15,Dental Consultation,4,Wednesday,291,31,12,40,326.452,96,0,High school,1,1,0,1,73,171,25,1
-28,Blood donation,4,Wednesday,225,26,9,28,326.452,96,0,High school,1,0,0,2,69,169,24,1
-14,Dental Consultation,4,Tuesday,155,12,14,34,326.452,96,0,High school,2,1,0,0,95,196,25,1
-24,Diseases of the muskuloskeletal system and connective tissue,4,Wednesday,246,25,16,41,326.452,96,0,High school,0,1,0,0,67,170,23,24
-14,Blood donation,4,Thursday,155,12,14,34,326.452,96,0,High school,2,1,0,0,95,196,25,1
-28,Dental Consultation,4,Friday,225,26,9,28,326.452,96,0,High school,1,0,0,2,69,169,24,2
-20,Dental Consultation,4,Friday,260,50,11,36,326.452,96,0,High school,4,1,0,0,65,168,23,4
-3,Diseases of the muskuloskeletal system and connective tissue,4,Wednesday,179,51,18,38,326.452,96,0,High school,0,1,0,0,89,170,31,24
-36,Blood donation,4,Thursday,118,13,18,50,326.452,96,0,High school,1,1,0,0,98,178,31,1
-15,Blood donation,4,Friday,291,31,12,40,326.452,96,0,High school,1,1,0,1,73,171,25,3
-24,Diseases of the genitourinary system,4,Friday,246,25,16,41,326.452,96,0,High school,0,1,0,0,67,170,23,8
-15,Dental Consultation,4,Friday,291,31,12,40,326.452,96,0,High school,1,1,0,1,73,171,25,1
-33,Dental Consultation,4,Friday,248,25,14,47,326.452,96,0,High school,2,0,0,1,86,165,32,8
-20,"Injury, poisoning, and certain other consequences of external cause",4,Friday,260,50,11,36,326.452,96,0,High school,4,1,0,0,65,168,23,56
-11,"Injury, poisoning, and certain other consequences of external cause",4,Tuesday,289,36,13,33,326.452,96,0,High school,2,1,0,1,90,172,30,8
-14,Diseases of the ckin and subcutaneous tissue,4,Wednesday,155,12,14,34,326.452,96,0,High school,2,1,0,0,95,196,25,24
-23,"Injury, poisoning, and certain other consequences of external cause",4,Wednesday,378,49,11,36,326.452,96,0,High school,2,0,1,4,65,174,21,8
-11,Diseases of the muskuloskeletal system and connective tissue,4,Thursday,289,36,13,33,326.452,96,0,High school,2,1,0,1,90,172,30,16
-1,Diseases of the eye and adnexa,4,Friday,235,11,14,37,326.452,96,0,Postgraduate,1,0,0,1,88,172,29,3
-2,No reason given,4,Monday,235,29,12,48,326.452,96,1,High school,1,0,1,5,88,163,33,0
-11,Diseases of the muskuloskeletal system and connective tissue,5,Wednesday,289,36,13,33,378.884,92,0,High school,2,1,0,1,90,172,30,8
-14,Dental Consultation,5,Thursday,155,12,14,34,378.884,92,0,High school,2,1,0,0,95,196,25,2
-14,Dental Consultation,5,Monday,155,12,14,34,378.884,92,0,High school,2,1,0,0,95,196,25,1
-3,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",5,Tuesday,179,51,18,38,378.884,92,0,High school,0,1,0,0,89,170,31,8
-28,"Injury, poisoning, and certain other consequences of external cause",5,Tuesday,225,26,9,28,378.884,92,0,High school,1,0,0,2,69,169,24,8
-27,Diseases of the eye and adnexa,5,Wednesday,184,42,7,27,378.884,92,0,High school,0,0,0,0,58,167,21,4
-14,Dental Consultation,5,Monday,155,12,14,34,378.884,92,0,High school,2,1,0,0,95,196,25,2
-3,Diseases of the ckin and subcutaneous tissue,5,Tuesday,179,51,18,38,378.884,92,0,High school,0,1,0,0,89,170,31,1
-11,Diseases of the muskuloskeletal system and connective tissue,5,Wednesday,289,36,13,33,378.884,92,0,High school,2,1,0,1,90,172,30,24
-7,No reason given,5,Wednesday,279,5,14,39,378.884,92,1,High school,2,1,1,0,68,168,24,0
-18,No reason given,5,Wednesday,330,16,4,28,378.884,92,1,Graduate,0,0,0,0,84,182,25,0
-23,No reason given,5,Wednesday,378,49,11,36,378.884,92,1,High school,2,0,1,4,65,174,21,0
-31,No reason given,5,Wednesday,388,15,9,50,378.884,92,1,High school,0,0,0,0,76,178,24,0
-3,Diseases of the digestive system,5,Tuesday,179,51,18,38,378.884,92,0,High school,0,1,0,0,89,170,31,1
-36,Diseases of the muskuloskeletal system and connective tissue,5,Wednesday,118,13,18,50,378.884,92,0,High school,1,1,0,0,98,178,31,24
-10,Medical consultation,5,Friday,361,52,3,28,378.884,92,0,High school,1,1,0,4,80,172,27,8
-24,"Injury, poisoning, and certain other consequences of external cause",6,Monday,246,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,8
-10,Medical consultation,6,Monday,361,52,3,28,377.55,94,0,High school,1,1,0,4,80,172,27,8
-24,Diseases of the respiratory system,6,Tuesday,246,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,24
-15,Blood donation,6,Thursday,291,31,12,40,377.55,94,0,High school,1,1,0,1,73,171,25,4
-24,Diseases of the respiratory system,6,Friday,246,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,8
-3,Diseases of the digestive system,6,Monday,179,51,18,38,377.55,94,0,High school,0,1,0,0,89,170,31,8
-14,Blood donation,6,Monday,155,12,14,34,377.55,94,0,High school,2,1,0,0,95,196,25,4
-24,Diseases of the respiratory system,6,Monday,246,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,8
-36,Diseases of the muskuloskeletal system and connective tissue,6,Wednesday,118,13,18,50,377.55,94,0,High school,1,1,0,0,98,178,31,8
-1,Diseases of the muskuloskeletal system and connective tissue,6,Friday,235,11,14,37,377.55,94,0,Postgraduate,1,0,0,1,88,172,29,16
-36,Blood donation,6,Tuesday,118,13,18,50,377.55,94,0,High school,1,1,0,0,98,178,31,1
-36,Diseases of the muskuloskeletal system and connective tissue,6,Wednesday,118,13,18,50,377.55,94,0,High school,1,1,0,0,98,178,31,80
-23,Medical consultation,6,Thursday,378,49,11,36,377.55,94,0,High school,2,0,1,4,65,174,21,8
-3,Diseases of the digestive system,6,Friday,179,51,18,38,377.55,94,0,High school,0,1,0,0,89,170,31,2
-32,Dental Consultation,6,Monday,289,48,29,49,377.55,94,0,High school,0,0,0,2,108,172,36,2
-28,Dental Consultation,6,Thursday,225,26,9,28,377.55,94,0,High school,1,0,0,2,69,169,24,2
-14,"Injury, poisoning, and certain other consequences of external cause",7,Tuesday,155,12,14,34,275.312,98,0,High school,2,1,0,0,95,196,25,16
-36,Certain Infectious and parasitic diseases,7,Wednesday,118,13,18,50,275.312,98,0,High school,1,1,0,0,98,178,31,8
-34,Mental and behavioral disorders,7,Friday,118,10,10,37,275.312,98,0,High school,0,0,0,0,83,172,28,8
-34,Patient follow-up,7,Friday,118,10,10,37,275.312,98,0,High school,0,0,0,0,83,172,28,4
-18,Patient follow-up,7,Tuesday,330,16,4,28,275.312,98,0,Graduate,0,0,0,0,84,182,25,8
-22,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",7,Thursday,179,26,9,30,275.312,98,0,Postgraduate,0,0,0,0,56,171,19,8
-14,Unjustified absence,7,Friday,155,12,14,34,275.312,98,0,High school,2,1,0,0,95,196,25,2
-18,Certain Infectious and parasitic diseases,7,Monday,330,16,4,28,275.312,98,0,Graduate,0,0,0,0,84,182,25,8
-18,Certain Infectious and parasitic diseases,7,Tuesday,330,16,4,28,275.312,98,0,Graduate,0,0,0,0,84,182,25,8
-30,Unjustified absence,7,Monday,157,27,6,29,275.312,98,0,High school,0,1,1,0,75,185,22,3
-10,Medical consultation,7,Tuesday,361,52,3,28,275.312,98,0,High school,1,1,0,4,80,172,27,8
-11,Patient follow-up,7,Wednesday,289,36,13,33,275.312,98,0,High school,2,1,0,1,90,172,30,8
-3,Patient follow-up,7,Thursday,179,51,18,38,275.312,98,0,High school,0,1,0,0,89,170,31,8
-11,"Injury, poisoning, and certain other consequences of external cause",7,Monday,289,36,13,33,275.312,98,0,High school,2,1,0,1,90,172,30,32
-11,"Injury, poisoning, and certain other consequences of external cause",7,Thursday,289,36,13,33,275.312,98,0,High school,2,1,0,1,90,172,30,8
-20,No reason given,7,Thursday,260,50,11,36,275.312,98,1,High school,4,1,0,0,65,168,23,0
-11,"Injury, poisoning, and certain other consequences of external cause",8,Friday,289,36,13,33,265.615,94,0,High school,2,1,0,1,90,172,30,8
-30,"Injury, poisoning, and certain other consequences of external cause",8,Friday,157,27,6,29,265.615,94,0,High school,0,1,1,0,75,185,22,3
-11,Blood donation,8,Monday,289,36,13,33,265.615,94,0,High school,2,1,0,1,90,172,30,1
-9,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Tuesday,228,14,16,58,265.615,94,0,High school,2,0,0,1,65,172,22,8
-26,Diseases of the muskuloskeletal system and connective tissue,8,Thursday,300,26,13,43,265.615,94,0,High school,2,1,1,1,77,175,25,1
-26,Diseases of the genitourinary system,8,Thursday,300,26,13,43,265.615,94,0,High school,2,1,1,1,77,175,25,2
-20,Dental Consultation,8,Friday,260,50,11,36,265.615,94,0,High school,4,1,0,0,65,168,23,4
-11,Blood donation,8,Tuesday,289,36,13,33,265.615,94,0,High school,2,1,0,1,90,172,30,4
-33,Blood donation,8,Wednesday,248,25,14,47,265.615,94,0,High school,2,0,0,1,86,165,32,1
-21,Diseases of the digestive system,8,Thursday,268,11,8,33,265.615,94,0,Graduate,0,0,0,0,79,178,25,8
-22,Blood donation,8,Thursday,179,26,9,30,265.615,94,0,Postgraduate,0,0,0,0,56,171,19,1
-36,Diseases of the muskuloskeletal system and connective tissue,8,Thursday,118,13,18,50,265.615,94,0,High school,1,1,0,0,98,178,31,3
-33,Unjustified absence,8,Monday,248,25,14,47,265.615,94,0,High school,2,0,0,1,86,165,32,2
-1,Blood donation,8,Tuesday,235,11,14,37,265.615,94,0,Postgraduate,1,0,0,1,88,172,29,1
-36,Blood donation,8,Thursday,118,13,18,50,265.615,94,0,High school,1,1,0,0,98,178,31,1
-1,"Injury, poisoning, and certain other consequences of external cause",8,Thursday,235,11,14,37,265.615,94,0,Postgraduate,1,0,0,1,88,172,29,8
-10,Diseases of the ear and mastoid process,8,Tuesday,361,52,3,28,265.615,94,0,High school,1,1,0,4,80,172,27,8
-27,Diseases of the nervous system,8,Wednesday,184,42,7,27,265.615,94,0,High school,0,0,0,0,58,167,21,8
-3,Diseases of the digestive system,9,Monday,179,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,8
-3,Blood donation,9,Friday,179,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,3
-11,"Injury, poisoning, and certain other consequences of external cause",9,Wednesday,289,36,13,33,294.217,81,0,High school,2,1,0,1,90,172,30,24
-5,No reason given,9,Thursday,235,20,13,43,294.217,81,1,High school,1,1,0,0,106,167,38,0
-24,Diseases of the circulatory system,9,Monday,246,25,16,41,294.217,81,0,High school,0,1,0,0,67,170,23,16
-15,Dental Consultation,9,Tuesday,291,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,3
-8,No reason given,9,Tuesday,231,35,14,39,294.217,81,1,High school,2,1,0,2,100,170,35,0
-19,No reason given,9,Tuesday,291,50,12,32,294.217,81,1,High school,0,1,0,0,65,169,23,0
-3,Diseases of the muskuloskeletal system and connective tissue,9,Wednesday,179,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,8
-24,Diseases of the circulatory system,9,Wednesday,246,25,16,41,294.217,81,0,High school,0,1,0,0,67,170,23,32
-3,Blood donation,9,Thursday,179,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,1
-15,Dental Consultation,9,Friday,291,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,4
-20,Dental Consultation,9,Friday,260,50,11,36,294.217,81,0,High school,4,1,0,0,65,168,23,4
-5,Patient follow-up,9,Wednesday,235,20,13,43,294.217,81,0,High school,1,1,0,0,106,167,38,8
-36,Dental Consultation,9,Thursday,118,13,18,50,294.217,81,0,High school,1,1,0,0,98,178,31,1
-5,No reason given,9,Thursday,235,20,13,43,294.217,81,1,High school,1,1,0,0,106,167,38,0
-15,Dental Consultation,9,Friday,291,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,3
-15,Diseases of the eye and adnexa,9,Monday,291,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,40
-3,Diseases of the muskuloskeletal system and connective tissue,9,Monday,179,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,8
-11,Laboratory examination,10,Monday,289,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,8
-1,Patient follow-up,10,Monday,235,11,14,37,265.017,88,0,Postgraduate,1,0,0,1,88,172,29,4
-11,Patient follow-up,10,Monday,289,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,8
-11,Medical consultation,10,Friday,289,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,8
-36,No reason given,10,Friday,118,13,18,50,265.017,88,1,High school,1,1,0,0,98,178,31,0
-33,No reason given,10,Friday,248,25,14,47,265.017,88,1,High school,2,0,0,1,86,165,32,0
-22,Certain Infectious and parasitic diseases,10,Monday,179,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,8
-34,Diseases of the eye and adnexa,10,Monday,118,10,10,37,265.017,88,0,High school,0,0,0,0,83,172,28,3
-13,Medical consultation,10,Monday,369,17,12,31,265.017,88,0,High school,3,1,0,0,70,169,25,8
-3,Dental Consultation,10,Wednesday,179,51,18,38,265.017,88,0,High school,0,1,0,0,89,170,31,1
-22,Certain Infectious and parasitic diseases,10,Wednesday,179,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,64
-5,No reason given,10,Wednesday,235,20,13,43,265.017,88,1,High school,1,1,0,0,106,167,38,0
-11,"Injury, poisoning, and certain other consequences of external cause",10,Thursday,289,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,16
-20,Dental Consultation,10,Friday,260,50,11,36,265.017,88,0,High school,4,1,0,0,65,168,23,3
-5,No reason given,10,Friday,235,20,13,43,265.017,88,1,High school,1,1,0,0,106,167,38,0
-5,Blood donation,10,Monday,235,20,13,43,265.017,88,0,High school,1,1,0,0,106,167,38,2
-5,Blood donation,10,Monday,235,20,13,43,265.017,88,0,High school,1,1,0,0,106,167,38,2
-36,Dental Consultation,10,Tuesday,118,13,18,50,265.017,88,0,High school,1,1,0,0,98,178,31,1
-15,Dental Consultation,10,Tuesday,291,31,12,40,265.017,88,0,High school,1,1,0,1,73,171,25,4
-22,Blood donation,10,Thursday,179,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,16
-36,Dental Consultation,10,Thursday,118,13,18,50,265.017,88,0,High school,1,1,0,0,98,178,31,1
-10,Diseases of the respiratory system,10,Monday,361,52,3,28,265.017,88,0,High school,1,1,0,4,80,172,27,8
-20,No reason given,10,Tuesday,260,50,11,36,265.017,88,1,High school,4,1,0,0,65,168,23,0
-15,No reason given,10,Tuesday,291,31,12,40,265.017,88,1,High school,1,1,0,1,73,171,25,0
-30,No reason given,10,Tuesday,157,27,6,29,265.017,88,1,High school,0,1,1,0,75,185,22,0
-22,Certain Infectious and parasitic diseases,10,Wednesday,179,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,5
-22,Diseases of the eye and adnexa,10,Wednesday,179,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,5
-36,Blood donation,10,Thursday,118,13,18,50,265.017,88,0,High school,1,1,0,0,98,178,31,1
-34,Diseases of the digestive system,11,Monday,118,10,10,37,284.031,97,0,High school,0,0,0,0,83,172,28,8
-33,Blood donation,11,Monday,248,25,14,47,284.031,97,0,High school,2,0,0,1,86,165,32,2
-3,Diseases of the nervous system,11,Tuesday,179,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,8
-20,Dental Consultation,11,Friday,260,50,11,36,284.031,97,0,High school,4,1,0,0,65,168,23,3
-15,Blood donation,11,Monday,291,31,12,40,284.031,97,0,High school,1,1,0,1,73,171,25,1
-23,Certain Infectious and parasitic diseases,11,Monday,378,49,11,36,284.031,97,0,High school,2,0,1,4,65,174,21,8
-14,Diseases of the digestive system,11,Monday,155,12,14,34,284.031,97,0,High school,2,1,0,0,95,196,25,120
-5,Patient follow-up,11,Monday,235,20,13,43,284.031,97,0,High school,1,1,0,0,106,167,38,8
-18,No reason given,11,Tuesday,330,16,4,28,284.031,97,1,Graduate,0,0,0,0,84,182,25,0
-1,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",11,Wednesday,235,11,14,37,284.031,97,0,Postgraduate,1,0,0,1,88,172,29,1
-34,Diseases of the digestive system,11,Wednesday,118,10,10,37,284.031,97,0,High school,0,0,0,0,83,172,28,3
-1,Unjustified absence,11,Thursday,235,11,14,37,284.031,97,0,Postgraduate,1,0,0,1,88,172,29,2
-3,Dental Consultation,11,Thursday,179,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,3
-24,Diseases of the muskuloskeletal system and connective tissue,11,Friday,246,25,16,41,284.031,97,0,High school,0,1,0,0,67,170,23,8
-15,Diseases of the ckin and subcutaneous tissue,11,Friday,291,31,12,40,284.031,97,0,High school,1,1,0,1,73,171,25,4
-24,Diseases of the muskuloskeletal system and connective tissue,11,Monday,246,25,16,41,284.031,97,0,High school,0,1,0,0,67,170,23,8
-3,Dental Consultation,11,Tuesday,179,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,1
-20,Diseases of the respiratory system,11,Wednesday,260,50,11,36,284.031,97,0,High school,4,1,0,0,65,168,23,8
-20,"Pregnancy, childbirth, and the puerperium",11,Friday,260,50,11,36,284.031,97,0,High school,4,1,0,0,65,168,23,8
-23,No reason given,11,Friday,378,49,11,36,284.031,97,1,High school,2,0,1,4,65,174,21,0
-7,No reason given,11,Tuesday,279,5,14,39,284.031,97,1,High school,2,1,1,0,68,168,24,0
-3,Blood donation,11,Thursday,179,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,1
-28,Diseases of the ckin and subcutaneous tissue,12,Monday,225,26,9,28,236.62900000000002,93,0,High school,1,0,0,2,69,169,24,3
-3,Dental Consultation,12,Monday,179,51,18,38,236.62900000000002,93,0,High school,0,1,0,0,89,170,31,2
-3,Dental Consultation,12,Monday,179,51,18,38,236.62900000000002,93,0,High school,0,1,0,0,89,170,31,1
-1,Blood donation,12,Monday,235,11,14,37,236.62900000000002,93,0,Postgraduate,1,0,0,1,88,172,29,3
-36,Dental Consultation,12,Tuesday,118,13,18,50,236.62900000000002,93,0,High school,1,1,0,0,98,178,31,1
-20,Dental Consultation,12,Friday,260,50,11,36,236.62900000000002,93,0,High school,4,1,0,0,65,168,23,4
-24,"Endocrine, nutritional and metabolic disease",12,Thursday,246,25,16,41,236.62900000000002,93,0,High school,0,1,0,0,67,170,23,8
-3,Dental Consultation,12,Thursday,179,51,18,38,236.62900000000002,93,0,High school,0,1,0,0,89,170,31,1
-3,Dental Consultation,12,Friday,179,51,18,38,236.62900000000002,93,0,High school,0,1,0,0,89,170,31,1
-22,Blood donation,12,Tuesday,179,26,9,30,236.62900000000002,93,0,Postgraduate,0,0,0,0,56,171,19,1
-34,Unjustified absence,12,Tuesday,118,10,10,37,236.62900000000002,93,0,High school,0,0,0,0,83,172,28,8
-1,Unjustified absence,12,Thursday,235,11,14,37,236.62900000000002,93,0,Postgraduate,1,0,0,1,88,172,29,2
-3,Dental Consultation,12,Friday,179,51,18,38,236.62900000000002,93,0,High school,0,1,0,0,89,170,31,1
-5,Diseases of the muskuloskeletal system and connective tissue,12,Tuesday,235,20,13,43,236.62900000000002,93,0,High school,1,1,0,0,106,167,38,8
-1,Diseases of the genitourinary system,12,Tuesday,235,11,14,37,236.62900000000002,93,0,Postgraduate,1,0,0,1,88,172,29,4
-20,Patient follow-up,12,Wednesday,260,50,11,36,236.62900000000002,93,0,High school,4,1,0,0,65,168,23,8
-30,Dental Consultation,12,Monday,157,27,6,29,236.62900000000002,93,0,High school,0,1,1,0,75,185,22,2
-3,Dental Consultation,12,Monday,179,51,18,38,236.62900000000002,93,0,High school,0,1,0,0,89,170,31,3
-11,"Injury, poisoning, and certain other consequences of external cause",12,Monday,289,36,13,33,236.62900000000002,93,0,High school,2,1,0,1,90,172,30,8
-28,Blood donation,1,Wednesday,225,26,9,28,330.061,100,0,High school,1,0,0,2,69,169,24,5
-34,"Injury, poisoning, and certain other consequences of external cause",1,Monday,118,10,10,37,330.061,100,0,High school,0,0,0,0,83,172,28,32
-14,Blood donation,1,Monday,155,12,14,34,330.061,100,0,High school,2,1,0,0,95,196,25,2
-1,Diseases of the muskuloskeletal system and connective tissue,1,Tuesday,235,11,14,37,330.061,100,0,Postgraduate,1,0,0,1,88,172,29,1
-14,Blood donation,1,Tuesday,155,12,14,34,330.061,100,0,High school,2,1,0,0,95,196,25,4
-11,Patient follow-up,1,Monday,289,36,13,33,330.061,100,0,High school,2,1,0,1,90,172,30,8
-15,Diseases of the blood and blood-forming organs,1,Wednesday,291,31,12,40,330.061,100,0,High school,1,1,0,1,73,171,25,8
-5,Patient follow-up,1,Monday,235,20,13,43,330.061,100,0,High school,1,1,0,0,106,167,38,8
-36,Patient follow-up,1,Monday,118,13,18,50,330.061,100,0,High school,1,1,0,0,98,178,31,4
-3,Dental Consultation,1,Wednesday,179,51,18,38,330.061,100,0,High school,0,1,0,0,89,170,31,1
-3,Dental Consultation,1,Friday,179,51,18,38,330.061,100,0,High school,0,1,0,0,89,170,31,1
-34,Dental Consultation,2,Tuesday,118,10,10,37,251.81799999999998,96,0,High school,0,0,0,0,83,172,28,2
-3,Physiotherapy,2,Wednesday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-28,Diseases of the eye and adnexa,2,Wednesday,225,26,9,28,251.81799999999998,96,0,High school,1,0,0,2,69,169,24,1
-11,Medical consultation,2,Friday,289,36,13,33,251.81799999999998,96,0,High school,2,1,0,1,90,172,30,3
-20,Dental Consultation,2,Friday,260,50,11,36,251.81799999999998,96,0,High school,4,1,0,0,65,168,23,3
-3,Blood donation,2,Friday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,2,Monday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,2
-3,Physiotherapy,2,Wednesday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-3,Diseases of the respiratory system,2,Thursday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,8
-24,Patient follow-up,2,Thursday,246,25,16,41,251.81799999999998,96,0,High school,0,1,0,0,67,170,23,8
-3,Physiotherapy,2,Friday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-6,Medical consultation,2,Monday,189,29,13,33,251.81799999999998,96,0,High school,2,0,0,2,69,167,25,8
-3,Physiotherapy,2,Monday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-24,Blood donation,2,Tuesday,246,25,16,41,251.81799999999998,96,0,High school,0,1,0,0,67,170,23,2
-15,Blood donation,2,Tuesday,291,31,12,40,251.81799999999998,96,0,High school,1,1,0,1,73,171,25,2
-30,Diseases of the digestive system,2,Wednesday,157,27,6,29,251.81799999999998,96,0,High school,0,1,1,0,75,185,22,16
-3,Physiotherapy,2,Wednesday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,2,Friday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-24,Diseases of the respiratory system,2,Friday,246,25,16,41,251.81799999999998,96,0,High school,0,1,0,0,67,170,23,24
-3,Physiotherapy,2,Wednesday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,2,Friday,179,51,18,38,251.81799999999998,96,0,High school,0,1,0,0,89,170,31,3
-34,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",3,Tuesday,118,10,10,37,244.387,98,0,High school,0,0,0,0,83,172,28,8
-24,"Injury, poisoning, and certain other consequences of external cause",3,Wednesday,246,25,16,41,244.387,98,0,High school,0,1,0,0,67,170,23,16
-24,Dental Consultation,3,Friday,246,25,16,41,244.387,98,0,High school,0,1,0,0,67,170,23,2
-20,Dental Consultation,3,Friday,260,50,11,36,244.387,98,0,High school,4,1,0,0,65,168,23,4
-3,Dental Consultation,3,Monday,179,51,18,38,244.387,98,0,High school,0,1,0,0,89,170,31,2
-1,Medical consultation,3,Monday,235,11,14,37,244.387,98,0,Postgraduate,1,0,0,1,88,172,29,8
-17,Medical consultation,3,Tuesday,179,22,17,40,244.387,98,0,Graduate,2,0,1,0,63,170,22,8
-23,Medical consultation,3,Tuesday,378,49,11,36,244.387,98,0,High school,2,0,1,4,65,174,21,8
-3,Dental Consultation,3,Monday,179,51,18,38,244.387,98,0,High school,0,1,0,0,89,170,31,16
-10,Medical consultation,3,Wednesday,361,52,3,28,244.387,98,0,High school,1,1,0,4,80,172,27,8
-13,No reason given,3,Wednesday,369,17,12,31,244.387,98,1,High school,3,1,0,0,70,169,25,0
-1,Factors influencing health status and contact with health services,3,Thursday,235,11,14,37,244.387,98,0,Postgraduate,1,0,0,1,88,172,29,8
-36,Blood donation,3,Friday,118,13,18,50,244.387,98,0,High school,1,1,0,0,98,178,31,2
-36,Diseases of the genitourinary system,3,Tuesday,118,13,18,50,244.387,98,0,High school,1,1,0,0,98,178,31,3
-36,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,118,13,18,50,244.387,98,0,High school,1,1,0,0,98,178,31,8
-1,No reason given,3,Thursday,235,11,14,37,244.387,98,1,Postgraduate,1,0,0,1,88,172,29,0
-24,No reason given,3,Thursday,246,25,16,41,244.387,98,1,High school,0,1,0,0,67,170,23,0
-36,No reason given,3,Thursday,118,13,18,50,244.387,98,1,High school,1,1,0,0,98,178,31,0
-3,Dental Consultation,3,Friday,179,51,18,38,244.387,98,0,High school,0,1,0,0,89,170,31,8
-11,Medical consultation,3,Friday,289,36,13,33,244.387,98,0,High school,2,1,0,1,90,172,30,8
-20,"Injury, poisoning, and certain other consequences of external cause",3,Monday,260,50,11,36,244.387,98,0,High school,4,1,0,0,65,168,23,8
-24,Dental Consultation,3,Tuesday,246,25,16,41,244.387,98,0,High school,0,1,0,0,67,170,23,2
-3,Dental Consultation,4,Wednesday,179,51,18,38,239.40900000000002,98,0,High school,0,1,0,0,89,170,31,4
-20,Dental Consultation,4,Friday,260,50,11,36,239.40900000000002,98,0,High school,4,1,0,0,65,168,23,3
-18,Patient follow-up,4,Friday,330,16,4,28,239.40900000000002,98,0,Graduate,0,0,0,0,84,182,25,4
-13,Medical consultation,4,Monday,369,17,12,31,239.40900000000002,98,0,High school,3,1,0,0,70,169,25,4
-33,Patient follow-up,4,Monday,248,25,14,47,239.40900000000002,98,0,High school,2,0,0,1,86,165,32,4
-18,Blood donation,4,Wednesday,330,16,4,28,239.40900000000002,98,0,Graduate,0,0,0,0,84,182,25,8
-3,Dental Consultation,4,Wednesday,179,51,18,38,239.40900000000002,98,0,High school,0,1,0,0,89,170,31,8
-36,Blood donation,4,Monday,118,13,18,50,239.40900000000002,98,0,High school,1,1,0,0,98,178,31,1
-36,Diseases of the muskuloskeletal system and connective tissue,4,Wednesday,118,13,18,50,239.40900000000002,98,0,High school,1,1,0,0,98,178,31,120
-26,Dental Consultation,4,Friday,300,26,13,43,239.40900000000002,98,0,High school,2,1,1,1,77,175,25,8
-20,Dental Consultation,4,Friday,260,50,11,36,239.40900000000002,98,0,High school,4,1,0,0,65,168,23,4
-3,Dental Consultation,4,Monday,179,51,18,38,239.40900000000002,98,0,High school,0,1,0,0,89,170,31,4
-34,Diseases of the digestive system,4,Wednesday,118,10,10,37,239.40900000000002,98,0,High school,0,0,0,0,83,172,28,2
-5,Diseases of the muskuloskeletal system and connective tissue,5,Monday,235,20,13,43,246.074,99,0,High school,1,1,0,0,106,167,38,16
-33,Blood donation,5,Wednesday,248,25,14,47,246.074,99,0,High school,2,0,0,1,86,165,32,2
-13,Diseases of the respiratory system,5,Monday,369,17,12,31,246.074,99,0,High school,3,1,0,0,70,169,25,8
-22,Blood donation,5,Wednesday,179,26,9,30,246.074,99,0,Postgraduate,0,0,0,0,56,171,19,3
-3,Dental Consultation,5,Wednesday,179,51,18,38,246.074,99,0,High school,0,1,0,0,89,170,31,4
-10,Blood donation,5,Thursday,361,52,3,28,246.074,99,0,High school,1,1,0,4,80,172,27,1
-20,Dental Consultation,5,Friday,260,50,11,36,246.074,99,0,High school,4,1,0,0,65,168,23,3
-17,Diseases of the digestive system,5,Monday,179,22,17,40,246.074,99,0,Graduate,2,0,1,0,63,170,22,2
-17,Diseases of the ear and mastoid process,5,Monday,179,22,17,40,246.074,99,0,Graduate,2,0,1,0,63,170,22,3
-9,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",5,Wednesday,228,14,16,58,246.074,99,0,High school,2,0,0,1,65,172,22,8
-28,Unjustified absence,5,Wednesday,225,26,9,28,246.074,99,0,High school,1,0,0,2,69,169,24,3
-18,Diseases of the muskuloskeletal system and connective tissue,5,Friday,330,16,4,28,246.074,99,0,Graduate,0,0,0,0,84,182,25,8
-22,Unjustified absence,5,Monday,179,26,9,30,246.074,99,0,Postgraduate,0,0,0,0,56,171,19,2
-34,Dental Consultation,5,Monday,118,10,10,37,246.074,99,0,High school,0,0,0,0,83,172,28,1
-1,Certain Infectious and parasitic diseases,5,Monday,235,11,14,37,246.074,99,0,Postgraduate,1,0,0,1,88,172,29,8
-22,Blood donation,5,Wednesday,179,26,9,30,246.074,99,0,Postgraduate,0,0,0,0,56,171,19,3
-34,Blood donation,6,Monday,118,10,10,37,253.957,95,0,High school,0,0,0,0,83,172,28,3
-3,Dental Consultation,6,Monday,179,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,3
-34,Dental Consultation,6,Tuesday,118,10,10,37,253.957,95,0,High school,0,0,0,0,83,172,28,2
-28,Blood donation,6,Thursday,225,26,9,28,253.957,95,0,High school,1,0,0,2,69,169,24,4
-20,Dental Consultation,6,Friday,260,50,11,36,253.957,95,0,High school,4,1,0,0,65,168,23,4
-3,No reason given,6,Friday,179,51,18,38,253.957,95,1,High school,0,1,0,0,89,170,31,0
-15,Diseases of the muskuloskeletal system and connective tissue,6,Monday,291,31,12,40,253.957,95,0,High school,1,1,0,1,73,171,25,40
-3,Dental Consultation,6,Monday,179,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,24
-24,Dental Consultation,6,Tuesday,246,25,16,41,253.957,95,0,High school,0,1,0,0,67,170,23,3
-3,Dental Consultation,6,Monday,179,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,4
-5,Patient follow-up,6,Tuesday,235,20,13,43,253.957,95,0,High school,1,1,0,0,106,167,38,8
-3,Dental Consultation,6,Monday,179,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,2
-28,Blood donation,6,Wednesday,225,26,9,28,253.957,95,0,High school,1,0,0,2,69,169,24,2
-36,Blood donation,6,Wednesday,118,13,18,50,253.957,95,0,High school,1,1,0,0,98,178,31,2
-3,Mental and behavioral disorders,6,Wednesday,179,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,8
-22,Factors influencing health status and contact with health services,6,Wednesday,179,26,9,30,253.957,95,0,Postgraduate,0,0,0,0,56,171,19,2
-24,Dental Consultation,6,Friday,246,25,16,41,253.957,95,0,High school,0,1,0,0,67,170,23,2
-18,Diseases of the digestive system,6,Tuesday,330,16,4,28,253.957,95,0,Graduate,0,0,0,0,84,182,25,1
-1,Diseases of the muskuloskeletal system and connective tissue,6,Tuesday,235,11,14,37,253.957,95,0,Postgraduate,1,0,0,1,88,172,29,8
-22,Blood donation,7,Thursday,179,26,9,30,230.29,92,0,Postgraduate,0,0,0,0,56,171,19,2
-28,Unjustified absence,7,Thursday,225,26,9,28,230.29,92,0,High school,1,0,0,2,69,169,24,4
-20,Diseases of the muskuloskeletal system and connective tissue,7,Friday,260,50,11,36,230.29,92,0,High school,4,1,0,0,65,168,23,8
-21,Diseases of the eye and adnexa,7,Monday,268,11,8,33,230.29,92,0,Graduate,0,0,0,0,79,178,25,8
-18,Unjustified absence,7,Friday,330,16,4,28,230.29,92,0,Graduate,0,0,0,0,84,182,25,8
-34,Patient follow-up,7,Friday,118,10,10,37,230.29,92,0,High school,0,0,0,0,83,172,28,8
-20,Patient follow-up,7,Monday,260,50,11,36,230.29,92,0,High school,4,1,0,0,65,168,23,4
-34,Dental Consultation,7,Tuesday,118,10,10,37,230.29,92,0,High school,0,0,0,0,83,172,28,8
-26,"Pregnancy, childbirth, and the puerperium",7,Monday,300,26,13,43,230.29,92,0,High school,2,1,1,1,77,175,25,8
-2,Blood donation,7,Monday,235,29,12,48,230.29,92,0,High school,1,0,1,5,88,163,33,1
-24,Dental Consultation,7,Tuesday,246,25,16,41,230.29,92,0,High school,0,1,0,0,67,170,23,2
-28,Diseases of the circulatory system,7,Tuesday,225,26,9,28,230.29,92,0,High school,1,0,0,2,69,169,24,112
-3,Dental Consultation,7,Tuesday,179,51,18,38,230.29,92,0,High school,0,1,0,0,89,170,31,1
-36,Blood donation,7,Friday,118,13,18,50,230.29,92,0,High school,1,1,0,0,98,178,31,1
-10,Medical consultation,7,Friday,361,52,3,28,230.29,92,0,High school,1,1,0,4,80,172,27,8
-11,Medical consultation,7,Monday,289,36,13,33,230.29,92,0,High school,2,1,0,1,90,172,30,8
-5,Patient follow-up,7,Monday,235,20,13,43,230.29,92,0,High school,1,1,0,0,106,167,38,8
-24,Dental Consultation,7,Tuesday,246,25,16,41,230.29,92,0,High school,0,1,0,0,67,170,23,2
-15,Dental Consultation,7,Thursday,291,31,12,40,230.29,92,0,High school,1,1,0,1,73,171,25,1
-7,Blood donation,7,Thursday,279,5,14,39,230.29,92,0,High school,2,1,1,0,68,168,24,2
-3,Unjustified absence,8,Thursday,179,51,18,38,249.797,93,0,High school,0,1,0,0,89,170,31,4
-17,Unjustified absence,8,Monday,179,22,17,40,249.797,93,0,Graduate,2,0,1,0,63,170,22,1
-24,Dental Consultation,8,Tuesday,246,25,16,41,249.797,93,0,High school,0,1,0,0,67,170,23,4
-34,Dental Consultation,8,Tuesday,118,10,10,37,249.797,93,0,High school,0,0,0,0,83,172,28,4
-11,Patient follow-up,8,Tuesday,289,36,13,33,249.797,93,0,High school,2,1,0,1,90,172,30,8
-5,Patient follow-up,8,Tuesday,235,20,13,43,249.797,93,0,High school,1,1,0,0,106,167,38,8
-15,Dental Consultation,8,Thursday,291,31,12,40,249.797,93,0,High school,1,1,0,1,73,171,25,4
-3,Unjustified absence,8,Monday,179,51,18,38,249.797,93,0,High school,0,1,0,0,89,170,31,4
-17,Unjustified absence,8,Tuesday,179,22,17,40,249.797,93,0,Graduate,2,0,1,0,63,170,22,8
-18,Blood donation,8,Thursday,330,16,4,28,249.797,93,0,Graduate,0,0,0,0,84,182,25,16
-1,Blood donation,8,Tuesday,235,11,14,37,249.797,93,0,Postgraduate,1,0,0,1,88,172,29,4
-24,Dental Consultation,8,Tuesday,246,25,16,41,249.797,93,0,High school,0,1,0,0,67,170,23,1
-34,Dental Consultation,8,Tuesday,118,10,10,37,249.797,93,0,High school,0,0,0,0,83,172,28,5
-15,Dental Consultation,8,Thursday,291,31,12,40,249.797,93,0,High school,1,1,0,1,73,171,25,2
-20,Dental Consultation,8,Monday,260,50,11,36,249.797,93,0,High school,4,1,0,0,65,168,23,3
-24,Dental Consultation,9,Tuesday,246,25,16,41,261.756,87,0,High school,0,1,0,0,67,170,23,1
-24,Dental Consultation,9,Tuesday,246,25,16,41,261.756,87,0,High school,0,1,0,0,67,170,23,1
-34,Dental Consultation,9,Tuesday,118,10,10,37,261.756,87,0,High school,0,0,0,0,83,172,28,3
-14,Blood donation,9,Tuesday,155,12,14,34,261.756,87,0,High school,2,1,0,0,95,196,25,2
-15,Dental Consultation,9,Thursday,291,31,12,40,261.756,87,0,High school,1,1,0,1,73,171,25,2
-22,Blood donation,9,Friday,179,26,9,30,261.756,87,0,Postgraduate,0,0,0,0,56,171,19,8
-33,Blood donation,9,Friday,248,25,14,47,261.756,87,0,High school,2,0,0,1,86,165,32,1
-3,Blood donation,9,Monday,179,51,18,38,261.756,87,0,High school,0,1,0,0,89,170,31,4
-28,Blood donation,9,Wednesday,225,26,9,28,261.756,87,0,High school,1,0,0,2,69,169,24,1
-22,Blood donation,9,Monday,179,26,9,30,261.756,87,0,Postgraduate,0,0,0,0,56,171,19,2
-13,Blood donation,9,Tuesday,369,17,12,31,261.756,87,0,High school,3,1,0,0,70,169,25,8
-10,Medical consultation,9,Tuesday,361,52,3,28,261.756,87,0,High school,1,1,0,4,80,172,27,8
-32,"Endocrine, nutritional and metabolic disease",10,Thursday,289,48,29,49,284.853,91,0,High school,0,0,0,2,108,172,36,1
-25,Diseases of the digestive system,10,Thursday,235,16,8,32,284.853,91,0,Postgraduate,0,0,0,0,75,178,25,3
-24,Patient follow-up,10,Friday,246,25,16,41,284.853,91,0,High school,0,1,0,0,67,170,23,8
-32,Diseases of the genitourinary system,10,Wednesday,289,48,29,49,284.853,91,0,High school,0,0,0,2,108,172,36,3
-15,Dental Consultation,10,Wednesday,291,31,12,40,284.853,91,0,High school,1,1,0,1,73,171,25,2
-34,Blood donation,10,Tuesday,118,10,10,37,284.853,91,0,High school,0,0,0,0,83,172,28,2
-32,Blood donation,10,Thursday,289,48,29,49,284.853,91,0,High school,0,0,0,2,108,172,36,2
-15,Blood donation,10,Friday,291,31,12,40,284.853,91,0,High school,1,1,0,1,73,171,25,1
-28,Blood donation,10,Tuesday,225,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,2
-13,Blood donation,10,Tuesday,369,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
-13,Blood donation,10,Tuesday,369,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,3
-28,Blood donation,10,Tuesday,225,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,4
-13,Patient follow-up,10,Tuesday,369,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
-3,Dental Consultation,10,Wednesday,179,51,18,38,284.853,91,0,High school,0,1,0,0,89,170,31,3
-9,Certain Infectious and parasitic diseases,10,Wednesday,228,14,16,58,284.853,91,0,High school,2,0,0,1,65,172,22,1
-15,Blood donation,10,Wednesday,291,31,12,40,284.853,91,0,High school,1,1,0,1,73,171,25,1
-13,Diseases of the respiratory system,10,Thursday,369,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
-28,Diseases of the muskuloskeletal system and connective tissue,10,Thursday,225,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,1
-13,Diseases of the respiratory system,10,Friday,369,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
-28,Diseases of the respiratory system,10,Friday,225,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,3
-6,Blood donation,10,Monday,189,29,13,33,284.853,91,0,High school,2,0,0,2,69,167,25,8
-25,Diseases of the nervous system,10,Monday,235,16,8,32,284.853,91,0,Postgraduate,0,0,0,0,75,178,25,8
-33,Diseases of the respiratory system,10,Monday,248,25,14,47,284.853,91,0,High school,2,0,0,1,86,165,32,8
-28,No reason given,10,Monday,225,26,9,28,284.853,91,1,High school,1,0,0,2,69,169,24,0
-28,Diseases of the muskuloskeletal system and connective tissue,10,Tuesday,225,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,3
-3,Factors influencing health status and contact with health services,11,Tuesday,179,51,18,38,268.519,93,0,High school,0,1,0,0,89,170,31,1
-34,Dental Consultation,11,Wednesday,118,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,3
-18,Neoplasms,11,Wednesday,330,16,4,28,268.519,93,0,Graduate,0,0,0,0,84,182,25,24
-3,Dental Consultation,11,Friday,179,51,18,38,268.519,93,0,High school,0,1,0,0,89,170,31,1
-34,Diseases of the circulatory system,11,Tuesday,118,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,8
-11,Laboratory examination,11,Wednesday,289,36,13,33,268.519,93,0,High school,2,1,0,1,90,172,30,8
-25,Certain Infectious and parasitic diseases,11,Friday,235,16,8,32,268.519,93,0,Postgraduate,0,0,0,0,75,178,25,8
-28,Blood donation,11,Friday,225,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,4
-10,Medical consultation,11,Tuesday,361,52,3,28,268.519,93,0,High school,1,1,0,4,80,172,27,8
-15,Dental Consultation,11,Wednesday,291,31,12,40,268.519,93,0,High school,1,1,0,1,73,171,25,2
-34,Diseases of the muskuloskeletal system and connective tissue,11,Thursday,118,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,2
-28,Diseases of the genitourinary system,11,Thursday,225,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,3
-3,Dental Consultation,11,Monday,179,51,18,38,268.519,93,0,High school,0,1,0,0,89,170,31,1
-34,Blood donation,11,Monday,118,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,8
-34,Diseases of the ear and mastoid process,11,Tuesday,118,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,8
-28,Blood donation,11,Tuesday,225,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,2
-15,No reason given,11,Tuesday,291,31,12,40,268.519,93,1,High school,1,1,0,1,73,171,25,0
-11,No reason given,11,Wednesday,289,36,13,33,268.519,93,1,High school,2,1,0,1,90,172,30,0
-33,Diseases of the genitourinary system,11,Thursday,248,25,14,47,268.519,93,0,High school,2,0,0,1,86,165,32,4
-5,No reason given,11,Thursday,235,20,13,43,268.519,93,1,High school,1,1,0,0,106,167,38,0
-28,Blood donation,11,Friday,225,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,2
-13,Patient follow-up,11,Friday,369,17,12,31,268.519,93,0,High school,3,1,0,0,70,169,25,8
-10,Dental Consultation,11,Monday,361,52,3,28,268.519,93,0,High school,1,1,0,4,80,172,27,2
-3,Diseases of the muskuloskeletal system and connective tissue,12,Tuesday,179,51,18,38,280.54900000000004,98,0,High school,0,1,0,0,89,170,31,32
-15,Dental Consultation,12,Wednesday,291,31,12,40,280.54900000000004,98,0,High school,1,1,0,1,73,171,25,1
-28,Blood donation,12,Wednesday,225,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
-22,Diseases of the muskuloskeletal system and connective tissue,12,Friday,179,26,9,30,280.54900000000004,98,0,Postgraduate,0,0,0,0,56,171,19,1
-28,Blood donation,12,Friday,225,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
-28,Blood donation,12,Wednesday,225,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
-10,Diseases of the genitourinary system,12,Thursday,361,52,3,28,280.54900000000004,98,0,High school,1,1,0,4,80,172,27,4
-17,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",12,Friday,179,22,17,40,280.54900000000004,98,0,Graduate,2,0,1,0,63,170,22,2
-5,Patient follow-up,12,Friday,235,20,13,43,280.54900000000004,98,0,High school,1,1,0,0,106,167,38,8
-12,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",12,Monday,233,51,1,31,280.54900000000004,98,0,Graduate,1,1,0,8,68,178,21,8
-22,Diseases of the muskuloskeletal system and connective tissue,12,Tuesday,179,26,9,30,280.54900000000004,98,0,Postgraduate,0,0,0,0,56,171,19,16
-28,Blood donation,12,Tuesday,225,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,2
-28,Blood donation,12,Thursday,225,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
-28,Blood donation,12,Monday,225,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,2
-14,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",12,Tuesday,155,12,14,34,280.54900000000004,98,0,High school,2,1,0,0,95,196,25,80
-22,Diseases of the ckin and subcutaneous tissue,1,Monday,179,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,24
-22,Diseases of the ckin and subcutaneous tissue,1,Thursday,179,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,16
-17,Unjustified absence,1,Thursday,179,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,2
-17,Unjustified absence,1,Friday,179,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,2
-22,Diseases of the muskuloskeletal system and connective tissue,1,Monday,179,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,3
-17,Unjustified absence,1,Wednesday,179,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,2
-32,Diseases of the respiratory system,1,Thursday,289,48,29,49,313.532,96,0,High school,0,0,0,2,108,172,36,8
-17,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Friday,179,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,3
-22,Physiotherapy,1,Monday,179,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,2
-14,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,155,12,14,34,313.532,96,0,High school,2,1,0,0,95,196,25,8
-22,Physiotherapy,1,Wednesday,179,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,2
-3,Physiotherapy,1,Wednesday,179,51,18,38,313.532,96,0,High school,0,1,0,0,89,170,31,3
-11,Diseases of the muskuloskeletal system and connective tissue,1,Wednesday,289,36,13,33,313.532,96,0,High school,2,1,0,1,90,172,30,8
-3,Physiotherapy,1,Thursday,179,51,18,38,313.532,96,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,1,Friday,179,51,18,38,313.532,96,0,High school,0,1,0,0,89,170,31,2
-3,Diseases of the muskuloskeletal system and connective tissue,2,Tuesday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,8
-28,Blood donation,2,Tuesday,225,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,3
-33,Certain Infectious and parasitic diseases,2,Wednesday,248,25,14,47,264.249,97,0,High school,2,0,0,1,86,165,32,8
-3,Physiotherapy,2,Wednesday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-28,Dental Consultation,2,Thursday,225,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,3
-3,Physiotherapy,2,Thursday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-22,Physiotherapy,2,Thursday,179,26,9,30,264.249,97,0,Postgraduate,0,0,0,0,56,171,19,2
-29,Dental Consultation,2,Friday,225,15,15,41,264.249,97,0,Master and Doctor,2,1,0,2,94,182,28,2
-3,Physiotherapy,2,Friday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-12,"Injury, poisoning, and certain other consequences of external cause",2,Monday,233,51,1,31,264.249,97,0,Graduate,1,1,0,8,68,178,21,2
-3,Physiotherapy,2,Monday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-28,Diseases of the eye and adnexa,2,Tuesday,225,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,8
-3,Physiotherapy,2,Wednesday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,2,Thursday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,3
-28,Unjustified absence,2,Thursday,225,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,3
-22,Diseases of the muskuloskeletal system and connective tissue,2,Thursday,179,26,9,30,264.249,97,0,Postgraduate,0,0,0,0,56,171,19,2
-17,Blood donation,2,Friday,179,22,17,40,264.249,97,0,Graduate,2,0,1,0,63,170,22,2
-3,Physiotherapy,2,Friday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,3
-12,Diseases of the ckin and subcutaneous tissue,2,Wednesday,233,51,1,31,264.249,97,0,Graduate,1,1,0,8,68,178,21,3
-22,Physiotherapy,2,Wednesday,179,26,9,30,264.249,97,0,Postgraduate,0,0,0,0,56,171,19,2
-3,Physiotherapy,2,Wednesday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-3,Diseases of the muskuloskeletal system and connective tissue,2,Thursday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,8
-3,Physiotherapy,2,Friday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-14,Unjustified absence,2,Monday,155,12,14,34,264.249,97,0,High school,2,1,0,0,95,196,25,5
-25,Unjustified absence,2,Monday,235,16,8,32,264.249,97,0,Postgraduate,0,0,0,0,75,178,25,3
-3,Physiotherapy,2,Monday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-28,Diseases of the eye and adnexa,2,Monday,225,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,2
-3,Physiotherapy,2,Tuesday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-33,Blood donation,2,Tuesday,248,25,14,47,264.249,97,0,High school,2,0,0,1,86,165,32,2
-28,Unjustified absence,2,Tuesday,225,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,2
-3,Physiotherapy,2,Wednesday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-3,Physiotherapy,2,Thursday,179,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
-25,Unjustified absence,2,Friday,235,16,8,32,264.249,97,0,Postgraduate,0,0,0,0,75,178,25,2
-3,Physiotherapy,3,Monday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
-33,Blood donation,3,Monday,248,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,2
-9,Unjustified absence,3,Tuesday,228,14,16,58,222.196,99,0,High school,2,0,0,1,65,172,22,3
-33,Unjustified absence,3,Tuesday,248,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,3
-9,Diseases of the ckin and subcutaneous tissue,3,Tuesday,228,14,16,58,222.196,99,0,High school,2,0,0,1,65,172,22,112
-3,Physiotherapy,3,Wednesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
-28,Physiotherapy,3,Thursday,225,26,9,28,222.196,99,0,High school,1,0,0,2,69,169,24,2
-3,Physiotherapy,3,Thursday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-28,Unjustified absence,3,Thursday,225,26,9,28,222.196,99,0,High school,1,0,0,2,69,169,24,2
-22,Physiotherapy,3,Friday,179,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,3
-25,Unjustified absence,3,Monday,235,16,8,32,222.196,99,0,Postgraduate,0,0,0,0,75,178,25,3
-10,"Injury, poisoning, and certain other consequences of external cause",3,Monday,361,52,3,28,222.196,99,0,High school,1,1,0,4,80,172,27,8
-3,Diseases of the muskuloskeletal system and connective tissue,3,Tuesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,8
-3,Physiotherapy,3,Wednesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
-3,Physiotherapy,3,Thursday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-22,Physiotherapy,3,Friday,179,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,2
-3,Diseases of the respiratory system,3,Monday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,4
-33,Diseases of the muskuloskeletal system and connective tissue,3,Monday,248,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,2
-3,Physiotherapy,3,Monday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-28,Diseases of the eye and adnexa,3,Monday,225,26,9,28,222.196,99,0,High school,1,0,0,2,69,169,24,8
-3,Physiotherapy,3,Tuesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
-11,Blood donation,3,Wednesday,289,36,13,33,222.196,99,0,High school,2,1,0,1,90,172,30,8
-9,Unjustified absence,3,Wednesday,228,14,16,58,222.196,99,0,High school,2,0,0,1,65,172,22,2
-3,Physiotherapy,3,Wednesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
-33,Blood donation,3,Thursday,248,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,3
-3,Physiotherapy,3,Thursday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-22,Blood donation,3,Friday,179,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,2
-3,Physiotherapy,3,Friday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,3,Tuesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-16,Blood donation,3,Wednesday,118,15,24,46,222.196,99,0,High school,2,1,1,0,75,175,25,8
-14,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,155,12,14,34,222.196,99,0,High school,2,1,0,0,95,196,25,24
-3,Physiotherapy,3,Wednesday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-3,Physiotherapy,3,Thursday,179,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
-22,Diseases of the muskuloskeletal system and connective tissue,3,Monday,179,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,2
-11,"Injury, poisoning, and certain other consequences of external cause",3,Monday,289,36,13,33,222.196,99,0,High school,2,1,0,1,90,172,30,104
-13,Medical consultation,3,Wednesday,369,17,12,31,222.196,99,0,High school,3,1,0,0,70,169,25,8
-28,Diseases of the muskuloskeletal system and connective tissue,4,Monday,225,26,9,28,246.28799999999998,91,0,High school,1,0,0,2,69,169,24,8
-34,Diseases of the respiratory system,4,Monday,118,10,10,37,246.28799999999998,91,0,High school,0,0,0,0,83,172,28,8
-10,"Injury, poisoning, and certain other consequences of external cause",4,Tuesday,361,52,3,28,246.28799999999998,91,0,High school,1,1,0,4,80,172,27,8
-33,"Injury, poisoning, and certain other consequences of external cause",4,Wednesday,248,25,14,47,246.28799999999998,91,0,High school,2,0,0,1,86,165,32,8
-6,Diseases of the muskuloskeletal system and connective tissue,4,Thursday,189,29,13,33,246.28799999999998,91,0,High school,2,0,0,2,69,167,25,8
-22,Physiotherapy,4,Friday,179,26,9,30,246.28799999999998,91,0,Postgraduate,0,0,0,0,56,171,19,2
-13,Diseases of the eye and adnexa,4,Monday,369,17,12,31,246.28799999999998,91,0,High school,3,1,0,0,70,169,25,24
-17,Certain conditions originating in the prenatal period,4,Tuesday,179,22,17,40,246.28799999999998,91,0,Graduate,2,0,1,0,63,170,22,2
-36,Blood donation,4,Tuesday,118,13,18,50,246.28799999999998,91,0,High school,1,1,0,0,98,178,31,3
-10,Blood donation,4,Tuesday,361,52,3,28,246.28799999999998,91,0,High school,1,1,0,4,80,172,27,2
-34,Diseases of the respiratory system,4,Wednesday,118,10,10,37,246.28799999999998,91,0,High school,0,0,0,0,83,172,28,2
-1,Medical consultation,4,Friday,235,11,14,37,246.28799999999998,91,0,Postgraduate,1,0,0,1,88,172,29,8
-22,Physiotherapy,4,Friday,179,26,9,30,246.28799999999998,91,0,Postgraduate,0,0,0,0,56,171,19,2
-28,"Injury, poisoning, and certain other consequences of external cause",4,Monday,225,26,9,28,246.28799999999998,91,0,High school,1,0,0,2,69,169,24,8
-25,Certain conditions originating in the prenatal period,4,Tuesday,235,16,8,32,246.28799999999998,91,0,Postgraduate,0,0,0,0,75,178,25,3
-22,Physiotherapy,4,Friday,179,26,9,30,246.28799999999998,91,0,Postgraduate,0,0,0,0,56,171,19,2
-14,Dental Consultation,4,Tuesday,155,12,14,34,246.28799999999998,91,0,High school,2,1,0,0,95,196,25,4
-28,"Injury, poisoning, and certain other consequences of external cause",4,Thursday,225,26,9,28,246.28799999999998,91,0,High school,1,0,0,2,69,169,24,8
-36,Diseases of the genitourinary system,4,Thursday,118,13,18,50,246.28799999999998,91,0,High school,1,1,0,0,98,178,31,2
-22,Physiotherapy,4,Friday,179,26,9,30,246.28799999999998,91,0,Postgraduate,0,0,0,0,56,171,19,2
-1,Medical consultation,5,Monday,235,11,14,37,237.65599999999998,99,0,Postgraduate,1,0,0,1,88,172,29,8
-29,"Injury, poisoning, and certain other consequences of external cause",5,Wednesday,225,15,15,41,237.65599999999998,99,0,Master and Doctor,2,1,0,2,94,182,28,3
-25,Dental Consultation,5,Wednesday,235,16,8,32,237.65599999999998,99,0,Postgraduate,0,0,0,0,75,178,25,2
-34,Diseases of the ear and mastoid process,5,Wednesday,118,10,10,37,237.65599999999998,99,0,High school,0,0,0,0,83,172,28,3
-5,Patient follow-up,5,Wednesday,235,20,13,43,237.65599999999998,99,0,High school,1,1,0,0,106,167,38,8
-22,Diseases of the muskuloskeletal system and connective tissue,5,Thursday,179,26,9,30,237.65599999999998,99,0,Postgraduate,0,0,0,0,56,171,19,1
-15,Dental Consultation,5,Thursday,291,31,12,40,237.65599999999998,99,0,High school,1,1,0,1,73,171,25,2
-29,Diseases of the genitourinary system,5,Thursday,225,15,15,41,237.65599999999998,99,0,Master and Doctor,2,1,0,2,94,182,28,8
-26,"Injury, poisoning, and certain other consequences of external cause",5,Friday,300,26,13,43,237.65599999999998,99,0,High school,2,1,1,1,77,175,25,64
-29,Medical consultation,5,Friday,225,15,15,41,237.65599999999998,99,0,Master and Doctor,2,1,0,2,94,182,28,8
-22,Physiotherapy,5,Friday,179,26,9,30,237.65599999999998,99,0,Postgraduate,0,0,0,0,56,171,19,2
-36,Blood donation,5,Monday,118,13,18,50,237.65599999999998,99,0,High school,1,1,0,0,98,178,31,2
-36,Mental and behavioral disorders,5,Tuesday,118,13,18,50,237.65599999999998,99,0,High school,1,1,0,0,98,178,31,3
-34,Dental Consultation,5,Tuesday,118,10,10,37,237.65599999999998,99,0,High school,0,0,0,0,83,172,28,1
-36,No reason given,5,Tuesday,118,13,18,50,237.65599999999998,99,1,High school,1,1,0,0,98,178,31,0
-22,Physiotherapy,5,Wednesday,179,26,9,30,237.65599999999998,99,0,Postgraduate,0,0,0,0,56,171,19,2
-23,No reason given,5,Wednesday,378,49,11,36,237.65599999999998,99,1,High school,2,0,1,4,65,174,21,0
-17,Certain conditions originating in the prenatal period,5,Friday,179,22,17,40,237.65599999999998,99,0,Graduate,2,0,1,0,63,170,22,1
-14,Diseases of the respiratory system,5,Monday,155,12,14,34,237.65599999999998,99,0,High school,2,1,0,0,95,196,25,48
-25,Diseases of the respiratory system,5,Monday,235,16,8,32,237.65599999999998,99,0,Postgraduate,0,0,0,0,75,178,25,8
-15,Medical consultation,5,Wednesday,291,31,12,40,237.65599999999998,99,0,High school,1,1,0,1,73,171,25,8
-17,Diseases of the respiratory system,5,Wednesday,179,22,17,40,237.65599999999998,99,0,Graduate,2,0,1,0,63,170,22,8
-28,Diseases of the nervous system,5,Wednesday,225,26,9,28,237.65599999999998,99,0,High school,1,0,0,2,69,169,24,3
-18,Diseases of the respiratory system,5,Thursday,330,16,4,28,237.65599999999998,99,0,Graduate,0,0,0,0,84,182,25,8
-25,Blood donation,5,Thursday,235,16,8,32,237.65599999999998,99,0,Postgraduate,0,0,0,0,75,178,25,2
-15,Dental Consultation,5,Thursday,291,31,12,40,237.65599999999998,99,0,High school,1,1,0,1,73,171,25,2
-22,Physiotherapy,5,Friday,179,26,9,30,237.65599999999998,99,0,Postgraduate,0,0,0,0,56,171,19,2
-10,Diseases of the eye and adnexa,5,Monday,361,52,3,28,237.65599999999998,99,0,High school,1,1,0,4,80,172,27,8
-14,Blood donation,5,Wednesday,155,12,14,34,237.65599999999998,99,0,High school,2,1,0,0,95,196,25,2
-17,Unjustified absence,5,Friday,179,22,17,40,237.65599999999998,99,0,Graduate,2,0,1,0,63,170,22,8
-14,Diseases of the respiratory system,5,Friday,155,12,14,34,237.65599999999998,99,0,High school,2,1,0,0,95,196,25,8
-28,Diseases of the digestive system,5,Monday,225,26,9,28,237.65599999999998,99,0,High school,1,0,0,2,69,169,24,1
-16,Diseases of the eye and adnexa,6,Wednesday,118,15,24,46,275.089,96,0,High school,2,1,1,0,75,175,25,8
-22,Physiotherapy,6,Wednesday,179,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,3
-34,Patient follow-up,6,Friday,118,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,8
-34,Diseases of the respiratory system,6,Wednesday,118,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,8
-23,Medical consultation,6,Thursday,378,49,11,36,275.089,96,0,High school,2,0,1,4,65,174,21,8
-36,"Injury, poisoning, and certain other consequences of external cause",6,Thursday,118,13,18,50,275.089,96,0,High school,1,1,0,0,98,178,31,24
-12,"Injury, poisoning, and certain other consequences of external cause",6,Friday,233,51,1,31,275.089,96,0,Graduate,1,1,0,8,68,178,21,8
-22,Physiotherapy,6,Friday,179,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,2
-2,No reason given,6,Monday,235,29,12,48,275.089,96,1,High school,1,0,1,5,88,163,33,0
-21,No reason given,6,Monday,268,11,8,33,275.089,96,1,Graduate,0,0,0,0,79,178,25,0
-36,"Injury, poisoning, and certain other consequences of external cause",6,Thursday,118,13,18,50,275.089,96,0,High school,1,1,0,0,98,178,31,3
-22,Diseases of the muskuloskeletal system and connective tissue,6,Thursday,179,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,2
-15,Dental Consultation,6,Thursday,291,31,12,40,275.089,96,0,High school,1,1,0,1,73,171,25,2
-22,Diseases of the muskuloskeletal system and connective tissue,6,Monday,179,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,3
-34,Unjustified absence,6,Monday,118,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,3
-12,Medical consultation,6,Thursday,233,51,1,31,275.089,96,0,Graduate,1,1,0,8,68,178,21,8
-34,Diseases of the ear and mastoid process,6,Friday,118,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,2
-34,Diseases of the respiratory system,6,Wednesday,118,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,3
-12,Medical consultation,6,Wednesday,233,51,1,31,275.089,96,0,Graduate,1,1,0,8,68,178,21,3
-5,Patient follow-up,7,Wednesday,235,20,13,43,264.60400000000004,93,0,High school,1,1,0,0,106,167,38,4
-12,"Injury, poisoning, and certain other consequences of external cause",7,Friday,233,51,1,31,264.60400000000004,93,0,Graduate,1,1,0,8,68,178,21,2
-9,Diseases of the nervous system,7,Monday,228,14,16,58,264.60400000000004,93,0,High school,2,0,0,1,65,172,22,8
-34,Dental Consultation,7,Monday,118,10,10,37,264.60400000000004,93,0,High school,0,0,0,0,83,172,28,4
-9,Diseases of the nervous system,7,Tuesday,228,14,16,58,264.60400000000004,93,0,High school,2,0,0,1,65,172,22,120
-6,Medical consultation,7,Tuesday,189,29,13,33,264.60400000000004,93,0,High school,2,0,0,2,69,167,25,16
-34,Blood donation,7,Wednesday,118,10,10,37,264.60400000000004,93,0,High school,0,0,0,0,83,172,28,2
-10,Medical consultation,7,Wednesday,361,52,3,28,264.60400000000004,93,0,High school,1,1,0,4,80,172,27,8
-28,Medical consultation,7,Wednesday,225,26,9,28,264.60400000000004,93,0,High school,1,0,0,2,69,169,24,8
-13,Diseases of the muskuloskeletal system and connective tissue,7,Monday,369,17,12,31,264.60400000000004,93,0,High school,3,1,0,0,70,169,25,80
-11,Diseases of the genitourinary system,7,Tuesday,289,36,13,33,264.60400000000004,93,0,High school,2,1,0,1,90,172,30,8
-1,Diseases of the digestive system,7,Tuesday,235,11,14,37,264.60400000000004,93,0,Postgraduate,1,0,0,1,88,172,29,4
-4,No reason given,0,Tuesday,118,14,13,40,271.219,95,0,High school,1,1,0,8,98,170,34,0
-8,No reason given,0,Wednesday,231,35,14,39,271.219,95,0,High school,2,1,0,2,100,170,35,0
-35,No reason given,0,Friday,179,45,14,53,271.219,95,0,High school,1,0,0,1,77,175,25,0
+,ID,Reason for absence,Month of absence,Day of the week,Distance from Residence to Work,Service time,Age,Work load Average/day ,Hit target,Disciplinary failure,Education,Number of Children,Social drinker,Social smoker,Pet,Weight,Height,Body mass index,Absenteeism time in hours
+0,11,Patient follow-up,7,Tuesday,36,13,33,239.554,97,0,High school,2,1,0,1,90,172,30,4
+1,36,No reason given,7,Tuesday,13,18,50,239.554,97,1,High school,1,1,0,0,98,178,31,0
+2,3,Blood donation,7,Wednesday,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,2
+3,7,Diseases of the eye and adnexa,7,Thursday,5,14,39,239.554,97,0,High school,2,1,1,0,68,168,24,4
+4,11,Blood donation,7,Thursday,36,13,33,239.554,97,0,High school,2,1,0,1,90,172,30,2
+5,3,Blood donation,7,Friday,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,2
+6,10,Medical consultation,7,Friday,52,3,28,239.554,97,0,High school,1,1,0,4,80,172,27,8
+7,20,Blood donation,7,Friday,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,4
+8,14,"Injury, poisoning, and certain other consequences of external cause",7,Monday,12,14,34,239.554,97,0,High school,2,1,0,0,95,196,25,40
+9,1,Medical consultation,7,Monday,11,14,37,239.554,97,0,Postgraduate,1,0,0,1,88,172,29,8
+10,20,Certain Infectious and parasitic diseases,7,Monday,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,8
+11,20,Certain Infectious and parasitic diseases,7,Tuesday,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,8
+12,20,Diseases of the digestive system,7,Wednesday,50,11,36,239.554,97,0,High school,4,1,0,0,65,168,23,8
+13,3,Diseases of the digestive system,7,Wednesday,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,1
+14,3,Blood donation,7,Wednesday,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,4
+15,24,Diseases of the genitourinary system,7,Friday,25,16,41,239.554,97,0,High school,0,1,0,0,67,170,23,8
+16,3,Blood donation,7,Friday,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,2
+17,3,Factors influencing health status and contact with health services,7,Monday,51,18,38,239.554,97,0,High school,0,1,0,0,89,170,31,8
+18,6,Diseases of the digestive system,7,Thursday,29,13,33,239.554,97,0,High school,2,0,0,2,69,167,25,8
+19,33,Blood donation,8,Wednesday,25,14,47,205.917,92,0,High school,2,0,0,1,86,165,32,2
+20,18,Diseases of the respiratory system,8,Wednesday,16,4,28,205.917,92,0,Graduate,0,0,0,0,84,182,25,8
+21,3,Diseases of the digestive system,8,Monday,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,1
+22,10,Diseases of the muskuloskeletal system and connective tissue,8,Monday,52,3,28,205.917,92,0,High school,1,1,0,4,80,172,27,40
+23,20,Dental Consultation,8,Friday,50,11,36,205.917,92,0,High school,4,1,0,0,65,168,23,4
+24,11,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Monday,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,8
+25,10,Unjustified absence,8,Monday,52,3,28,205.917,92,0,High school,1,1,0,4,80,172,27,7
+26,11,Blood donation,8,Tuesday,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,1
+27,30,Dental Consultation,8,Wednesday,27,6,29,205.917,92,0,High school,0,1,1,0,75,185,22,4
+28,11,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Wednesday,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,8
+29,3,Blood donation,8,Friday,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,2
+30,3,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Monday,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,8
+31,2,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Thursday,29,12,48,205.917,92,0,High school,1,0,1,5,88,163,33,8
+32,1,Blood donation,8,Thursday,11,14,37,205.917,92,0,Postgraduate,1,0,0,1,88,172,29,4
+33,2,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Monday,29,12,48,205.917,92,0,High school,1,0,1,5,88,163,33,8
+34,3,Blood donation,8,Monday,51,18,38,205.917,92,0,High school,0,1,0,0,89,170,31,2
+35,10,Blood donation,8,Monday,52,3,28,205.917,92,0,High school,1,1,0,4,80,172,27,1
+36,11,Laboratory examination,8,Tuesday,36,13,33,205.917,92,0,High school,2,1,0,1,90,172,30,8
+37,19,Diseases of the digestive system,8,Thursday,50,12,32,205.917,92,0,High school,0,1,0,0,65,169,23,4
+38,2,Dental Consultation,8,Friday,29,12,48,205.917,92,0,High school,1,0,1,5,88,163,33,8
+39,20,Blood donation,8,Friday,50,11,36,205.917,92,0,High school,4,1,0,0,65,168,23,4
+40,27,Blood donation,9,Tuesday,42,7,27,241.476,92,0,High school,0,0,0,0,58,167,21,2
+41,34,Blood donation,9,Monday,10,10,37,241.476,92,0,High school,0,0,0,0,83,172,28,4
+42,3,Blood donation,9,Tuesday,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,4
+43,5,"Injury, poisoning, and certain other consequences of external cause",9,Tuesday,20,13,43,241.476,92,0,High school,1,1,0,0,106,167,38,8
+44,14,Blood donation,9,Wednesday,12,14,34,241.476,92,0,High school,2,1,0,0,95,196,25,2
+45,34,Blood donation,9,Monday,10,10,37,241.476,92,0,High school,0,0,0,0,83,172,28,3
+46,3,Blood donation,9,Tuesday,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,3
+47,15,Blood donation,9,Thursday,31,12,40,241.476,92,0,High school,1,1,0,1,73,171,25,4
+48,20,Medical consultation,9,Friday,50,11,36,241.476,92,0,High school,4,1,0,0,65,168,23,8
+49,15,Diseases of the genitourinary system,9,Monday,31,12,40,241.476,92,0,High school,1,1,0,1,73,171,25,32
+50,20,No reason given,9,Monday,50,11,36,241.476,92,1,High school,4,1,0,0,65,168,23,0
+51,29,No reason given,9,Monday,26,9,28,241.476,92,1,High school,1,0,0,2,69,169,24,0
+52,28,Blood donation,9,Tuesday,26,9,28,241.476,92,0,High school,1,0,0,2,69,169,24,2
+53,34,Blood donation,9,Tuesday,10,10,37,241.476,92,0,High school,0,0,0,0,83,172,28,2
+54,11,No reason given,9,Tuesday,36,13,33,241.476,92,1,High school,2,1,0,1,90,172,30,0
+55,36,No reason given,9,Tuesday,13,18,50,241.476,92,1,High school,1,1,0,0,98,178,31,0
+56,28,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",9,Wednesday,26,9,28,241.476,92,0,High school,1,0,0,2,69,169,24,3
+57,3,Blood donation,9,Wednesday,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,3
+58,13,No reason given,9,Wednesday,17,12,31,241.476,92,1,High school,3,1,0,0,70,169,25,0
+59,33,Blood donation,9,Friday,25,14,47,241.476,92,0,High school,2,0,0,1,86,165,32,1
+60,3,Blood donation,9,Friday,51,18,38,241.476,92,0,High school,0,1,0,0,89,170,31,3
+61,20,Blood donation,9,Friday,50,11,36,241.476,92,0,High school,4,1,0,0,65,168,23,4
+62,3,Blood donation,10,Tuesday,51,18,38,253.465,93,0,High school,0,1,0,0,89,170,31,3
+63,34,Blood donation,10,Tuesday,10,10,37,253.465,93,0,High school,0,0,0,0,83,172,28,3
+64,36,No reason given,10,Wednesday,13,18,50,253.465,93,1,High school,1,1,0,0,98,178,31,0
+65,22,Blood donation,10,Thursday,26,9,30,253.465,93,0,Postgraduate,0,0,0,0,56,171,19,1
+66,3,Blood donation,10,Friday,51,18,38,253.465,93,0,High school,0,1,0,0,89,170,31,3
+67,28,Blood donation,10,Friday,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,3
+68,34,Blood donation,10,Tuesday,10,10,37,253.465,93,0,High school,0,0,0,0,83,172,28,3
+69,28,Blood donation,10,Wednesday,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,2
+70,33,Blood donation,10,Wednesday,25,14,47,253.465,93,0,High school,2,0,0,1,86,165,32,2
+71,15,Blood donation,10,Thursday,31,12,40,253.465,93,0,High school,1,1,0,1,73,171,25,5
+72,3,Blood donation,10,Wednesday,51,18,38,253.465,93,0,High school,0,1,0,0,89,170,31,8
+73,28,Blood donation,10,Wednesday,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,3
+74,20,"Injury, poisoning, and certain other consequences of external cause",10,Thursday,50,11,36,253.465,93,0,High school,4,1,0,0,65,168,23,16
+75,15,Diseases of the genitourinary system,10,Tuesday,31,12,40,253.465,93,0,High school,1,1,0,1,73,171,25,8
+76,28,Dental Consultation,10,Tuesday,26,9,28,253.465,93,0,High school,1,0,0,2,69,169,24,2
+77,11,Patient follow-up,10,Wednesday,36,13,33,253.465,93,0,High school,2,1,0,1,90,172,30,8
+78,10,Blood donation,10,Friday,52,3,28,253.465,93,0,High school,1,1,0,4,80,172,27,1
+79,20,Dental Consultation,10,Friday,50,11,36,253.465,93,0,High school,4,1,0,0,65,168,23,3
+80,3,Blood donation,11,Thursday,51,18,38,306.345,93,0,High school,0,1,0,0,89,170,31,1
+81,28,Blood donation,11,Wednesday,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,1
+82,3,Diseases of the muskuloskeletal system and connective tissue,11,Thursday,51,18,38,306.345,93,0,High school,0,1,0,0,89,170,31,8
+83,17,Factors influencing health status and contact with health services,11,Thursday,22,17,40,306.345,93,0,Graduate,2,0,1,0,63,170,22,8
+84,15,Blood donation,11,Thursday,31,12,40,306.345,93,0,High school,1,1,0,1,73,171,25,5
+85,14,Diseases of the respiratory system,11,Monday,12,14,34,306.345,93,0,High school,2,1,0,0,95,196,25,32
+86,6,Medical consultation,11,Monday,29,13,33,306.345,93,0,High school,2,0,0,2,69,167,25,8
+87,15,Diseases of the genitourinary system,11,Monday,31,12,40,306.345,93,0,High school,1,1,0,1,73,171,25,40
+88,28,Blood donation,11,Wednesday,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,1
+89,14,Diseases of the nervous system,11,Friday,12,14,34,306.345,93,0,High school,2,1,0,0,95,196,25,8
+90,28,Blood donation,11,Wednesday,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,3
+91,17,Factors influencing health status and contact with health services,11,Wednesday,22,17,40,306.345,93,0,Graduate,2,0,1,0,63,170,22,8
+92,28,Diseases of the muskuloskeletal system and connective tissue,11,Friday,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,3
+93,20,Dental Consultation,11,Friday,50,11,36,306.345,93,0,High school,4,1,0,0,65,168,23,4
+94,33,Dental Consultation,11,Monday,25,14,47,306.345,93,0,High school,2,0,0,1,86,165,32,1
+95,28,Dental Consultation,11,Tuesday,26,9,28,306.345,93,0,High school,1,0,0,2,69,169,24,3
+96,11,Diseases of the eye and adnexa,11,Wednesday,36,13,33,306.345,93,0,High school,2,1,0,1,90,172,30,24
+97,15,Blood donation,11,Thursday,31,12,40,306.345,93,0,High school,1,1,0,1,73,171,25,3
+98,33,Blood donation,12,Tuesday,25,14,47,261.306,97,0,High school,2,0,0,1,86,165,32,1
+99,34,"Injury, poisoning, and certain other consequences of external cause",12,Tuesday,10,10,37,261.306,97,0,High school,0,0,0,0,83,172,28,64
+100,36,Blood donation,12,Wednesday,13,18,50,261.306,97,0,High school,1,1,0,0,98,178,31,2
+101,1,Patient follow-up,12,Wednesday,11,14,37,261.306,97,0,Postgraduate,1,0,0,1,88,172,29,8
+102,28,Blood donation,12,Thursday,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,2
+103,20,Patient follow-up,12,Friday,50,11,36,261.306,97,0,High school,4,1,0,0,65,168,23,8
+104,34,"Injury, poisoning, and certain other consequences of external cause",12,Tuesday,10,10,37,261.306,97,0,High school,0,0,0,0,83,172,28,56
+105,10,Medical consultation,12,Wednesday,52,3,28,261.306,97,0,High school,1,1,0,4,80,172,27,8
+106,28,Dental Consultation,12,Thursday,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,3
+107,20,Dental Consultation,12,Friday,50,11,36,261.306,97,0,High school,4,1,0,0,65,168,23,3
+108,28,Blood donation,12,Tuesday,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,2
+109,10,Medical consultation,12,Wednesday,52,3,28,261.306,97,0,High school,1,1,0,4,80,172,27,8
+110,34,Physiotherapy,12,Friday,10,10,37,261.306,97,0,High school,0,0,0,0,83,172,28,2
+111,24,"Injury, poisoning, and certain other consequences of external cause",12,Friday,25,16,41,261.306,97,0,High school,0,1,0,0,67,170,23,8
+112,28,Blood donation,12,Friday,26,9,28,261.306,97,0,High school,1,0,0,2,69,169,24,2
+113,28,Blood donation,1,Wednesday,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,1
+114,34,"Injury, poisoning, and certain other consequences of external cause",1,Monday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,1
+115,34,Physiotherapy,1,Tuesday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,1
+116,14,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,12,14,34,308.593,95,0,High school,2,1,0,0,95,196,25,8
+117,28,Physiotherapy,1,Wednesday,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,2
+118,27,Blood donation,1,Thursday,42,7,27,308.593,95,0,High school,0,0,0,0,58,167,21,2
+119,28,Dental Consultation,1,Thursday,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,2
+120,28,Physiotherapy,1,Friday,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,1
+121,34,Physiotherapy,1,Monday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+122,28,Physiotherapy,1,Tuesday,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,2
+123,34,Physiotherapy,1,Tuesday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+124,34,Physiotherapy,1,Wednesday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+125,34,Physiotherapy,1,Thursday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+126,34,Physiotherapy,1,Friday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+127,34,Physiotherapy,1,Monday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+128,34,Physiotherapy,1,Tuesday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+129,22,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,26,9,30,308.593,95,0,Postgraduate,0,0,0,0,56,171,19,8
+130,11,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,36,13,33,308.593,95,0,High school,2,1,0,1,90,172,30,8
+131,34,Physiotherapy,1,Wednesday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+132,27,Blood donation,1,Thursday,42,7,27,308.593,95,0,High school,0,0,0,0,58,167,21,2
+133,34,Physiotherapy,1,Thursday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,2
+134,34,Physiotherapy,1,Monday,10,10,37,308.593,95,0,High school,0,0,0,0,83,172,28,0
+135,28,Blood donation,1,Tuesday,26,9,28,308.593,95,0,High school,1,0,0,2,69,169,24,1
+136,11,Medical consultation,1,Thursday,36,13,33,308.593,95,0,High school,2,1,0,1,90,172,30,3
+137,27,Blood donation,2,Friday,42,7,27,302.585,99,0,High school,0,0,0,0,58,167,21,1
+138,24,Certain Infectious and parasitic diseases,2,Wednesday,25,16,41,302.585,99,0,High school,0,1,0,0,67,170,23,8
+139,3,Diseases of the digestive system,2,Wednesday,51,18,38,302.585,99,0,High school,0,1,0,0,89,170,31,8
+140,14,Dental Consultation,2,Thursday,12,14,34,302.585,99,0,High school,2,1,0,0,95,196,25,2
+141,6,Blood donation,2,Thursday,29,13,33,302.585,99,0,High school,2,0,0,2,69,167,25,8
+142,20,Dental Consultation,2,Friday,50,11,36,302.585,99,0,High school,4,1,0,0,65,168,23,2
+143,11,Medical consultation,2,Friday,36,13,33,302.585,99,0,High school,2,1,0,1,90,172,30,8
+144,31,Diseases of the digestive system,2,Monday,15,9,50,302.585,99,0,High school,0,0,0,0,76,178,24,8
+145,31,Certain Infectious and parasitic diseases,2,Tuesday,15,9,50,302.585,99,0,High school,0,0,0,0,76,178,24,8
+146,28,Dental Consultation,2,Monday,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,2
+147,28,Blood donation,2,Tuesday,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,2
+148,22,Blood donation,2,Tuesday,26,9,30,302.585,99,0,Postgraduate,0,0,0,0,56,171,19,1
+149,27,Blood donation,2,Tuesday,42,7,27,302.585,99,0,High school,0,0,0,0,58,167,21,8
+150,28,Unjustified absence,2,Thursday,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,3
+151,18,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",2,Monday,16,4,28,302.585,99,0,Graduate,0,0,0,0,84,182,25,8
+152,18,Blood donation,2,Tuesday,16,4,28,302.585,99,0,Graduate,0,0,0,0,84,182,25,1
+153,28,Blood donation,2,Wednesday,26,9,28,302.585,99,0,High school,1,0,0,2,69,169,24,1
+154,6,"Injury, poisoning, and certain other consequences of external cause",2,Thursday,29,13,33,302.585,99,0,High school,2,0,0,2,69,167,25,8
+155,19,Dental Consultation,3,Tuesday,50,12,32,343.2530000000001,95,0,High school,0,1,0,0,65,169,23,2
+156,20,"Injury, poisoning, and certain other consequences of external cause",3,Tuesday,50,11,36,343.2530000000001,95,0,High school,4,1,0,0,65,168,23,8
+157,30,"Injury, poisoning, and certain other consequences of external cause",3,Tuesday,27,6,29,343.2530000000001,95,0,High school,0,1,1,0,75,185,22,3
+158,17,"Congenital malformations, deformations, and chromosomal abnormalities",3,Tuesday,22,17,40,343.2530000000001,95,0,Graduate,2,0,1,0,63,170,22,8
+159,15,Medical consultation,3,Wednesday,31,12,40,343.2530000000001,95,0,High school,1,1,0,1,73,171,25,8
+160,20,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,50,11,36,343.2530000000001,95,0,High school,4,1,0,0,65,168,23,8
+161,22,Diseases of the muskuloskeletal system and connective tissue,3,Thursday,26,9,30,343.2530000000001,95,0,Postgraduate,0,0,0,0,56,171,19,8
+162,33,Diseases of the genitourinary system,3,Friday,25,14,47,343.2530000000001,95,0,High school,2,0,0,1,86,165,32,3
+163,20,Diseases of the muskuloskeletal system and connective tissue,3,Friday,50,11,36,343.2530000000001,95,0,High school,4,1,0,0,65,168,23,40
+164,17,Diseases of the digestive system,3,Monday,22,17,40,343.2530000000001,95,0,Graduate,2,0,1,0,63,170,22,40
+165,14,Certain Infectious and parasitic diseases,3,Monday,12,14,34,343.2530000000001,95,0,High school,2,1,0,0,95,196,25,16
+166,20,Patient follow-up,3,Monday,50,11,36,343.2530000000001,95,0,High school,4,1,0,0,65,168,23,16
+167,14,Diseases of the muskuloskeletal system and connective tissue,3,Tuesday,12,14,34,343.2530000000001,95,0,High school,2,1,0,0,95,196,25,8
+168,11,Diseases of the nervous system,3,Thursday,36,13,33,343.2530000000001,95,0,High school,2,1,0,1,90,172,30,8
+169,17,Diseases of the ear and mastoid process,3,Thursday,22,17,40,343.2530000000001,95,0,Graduate,2,0,1,0,63,170,22,8
+170,20,Dental Consultation,3,Friday,50,11,36,343.2530000000001,95,0,High school,4,1,0,0,65,168,23,4
+171,28,Blood donation,3,Friday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,1
+172,7,Diseases of the genitourinary system,3,Monday,5,14,39,343.2530000000001,95,0,High school,2,1,1,0,68,168,24,8
+173,3,Diseases of the muskuloskeletal system and connective tissue,3,Tuesday,51,18,38,343.2530000000001,95,0,High school,0,1,0,0,89,170,31,24
+174,28,Blood donation,3,Wednesday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,2
+175,28,Diseases of the digestive system,3,Monday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,8
+176,22,Diseases of the muskuloskeletal system and connective tissue,3,Monday,26,9,30,343.2530000000001,95,0,Postgraduate,0,0,0,0,56,171,19,1
+177,28,Diseases of the digestive system,3,Tuesday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,8
+178,28,Diseases of the digestive system,3,Wednesday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,16
+179,3,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,51,18,38,343.2530000000001,95,0,High school,0,1,0,0,89,170,31,3
+180,7,Diseases of the genitourinary system,3,Thursday,5,14,39,343.2530000000001,95,0,High school,2,1,1,0,68,168,24,16
+181,28,Dental Consultation,3,Friday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,2
+182,33,Diseases of the genitourinary system,3,Friday,25,14,47,343.2530000000001,95,0,High school,2,0,0,1,86,165,32,3
+183,28,Dental Consultation,3,Monday,26,9,28,343.2530000000001,95,0,High school,1,0,0,2,69,169,24,1
+184,15,Dental Consultation,4,Wednesday,31,12,40,326.452,96,0,High school,1,1,0,1,73,171,25,1
+185,28,Blood donation,4,Wednesday,26,9,28,326.452,96,0,High school,1,0,0,2,69,169,24,1
+186,14,Dental Consultation,4,Tuesday,12,14,34,326.452,96,0,High school,2,1,0,0,95,196,25,1
+187,24,Diseases of the muskuloskeletal system and connective tissue,4,Wednesday,25,16,41,326.452,96,0,High school,0,1,0,0,67,170,23,24
+188,14,Blood donation,4,Thursday,12,14,34,326.452,96,0,High school,2,1,0,0,95,196,25,1
+189,28,Dental Consultation,4,Friday,26,9,28,326.452,96,0,High school,1,0,0,2,69,169,24,2
+190,20,Dental Consultation,4,Friday,50,11,36,326.452,96,0,High school,4,1,0,0,65,168,23,4
+191,3,Diseases of the muskuloskeletal system and connective tissue,4,Wednesday,51,18,38,326.452,96,0,High school,0,1,0,0,89,170,31,24
+192,36,Blood donation,4,Thursday,13,18,50,326.452,96,0,High school,1,1,0,0,98,178,31,1
+193,15,Blood donation,4,Friday,31,12,40,326.452,96,0,High school,1,1,0,1,73,171,25,3
+194,24,Diseases of the genitourinary system,4,Friday,25,16,41,326.452,96,0,High school,0,1,0,0,67,170,23,8
+195,15,Dental Consultation,4,Friday,31,12,40,326.452,96,0,High school,1,1,0,1,73,171,25,1
+196,33,Dental Consultation,4,Friday,25,14,47,326.452,96,0,High school,2,0,0,1,86,165,32,8
+197,20,"Injury, poisoning, and certain other consequences of external cause",4,Friday,50,11,36,326.452,96,0,High school,4,1,0,0,65,168,23,56
+198,11,"Injury, poisoning, and certain other consequences of external cause",4,Tuesday,36,13,33,326.452,96,0,High school,2,1,0,1,90,172,30,8
+199,14,Diseases of the ckin and subcutaneous tissue,4,Wednesday,12,14,34,326.452,96,0,High school,2,1,0,0,95,196,25,24
+200,23,"Injury, poisoning, and certain other consequences of external cause",4,Wednesday,49,11,36,326.452,96,0,High school,2,0,1,4,65,174,21,8
+201,11,Diseases of the muskuloskeletal system and connective tissue,4,Thursday,36,13,33,326.452,96,0,High school,2,1,0,1,90,172,30,16
+202,1,Diseases of the eye and adnexa,4,Friday,11,14,37,326.452,96,0,Postgraduate,1,0,0,1,88,172,29,3
+203,2,No reason given,4,Monday,29,12,48,326.452,96,1,High school,1,0,1,5,88,163,33,0
+204,11,Diseases of the muskuloskeletal system and connective tissue,5,Wednesday,36,13,33,378.884,92,0,High school,2,1,0,1,90,172,30,8
+205,14,Dental Consultation,5,Thursday,12,14,34,378.884,92,0,High school,2,1,0,0,95,196,25,2
+206,14,Dental Consultation,5,Monday,12,14,34,378.884,92,0,High school,2,1,0,0,95,196,25,1
+207,3,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",5,Tuesday,51,18,38,378.884,92,0,High school,0,1,0,0,89,170,31,8
+208,28,"Injury, poisoning, and certain other consequences of external cause",5,Tuesday,26,9,28,378.884,92,0,High school,1,0,0,2,69,169,24,8
+209,27,Diseases of the eye and adnexa,5,Wednesday,42,7,27,378.884,92,0,High school,0,0,0,0,58,167,21,4
+210,14,Dental Consultation,5,Monday,12,14,34,378.884,92,0,High school,2,1,0,0,95,196,25,2
+211,3,Diseases of the ckin and subcutaneous tissue,5,Tuesday,51,18,38,378.884,92,0,High school,0,1,0,0,89,170,31,1
+212,11,Diseases of the muskuloskeletal system and connective tissue,5,Wednesday,36,13,33,378.884,92,0,High school,2,1,0,1,90,172,30,24
+213,7,No reason given,5,Wednesday,5,14,39,378.884,92,1,High school,2,1,1,0,68,168,24,0
+214,18,No reason given,5,Wednesday,16,4,28,378.884,92,1,Graduate,0,0,0,0,84,182,25,0
+215,23,No reason given,5,Wednesday,49,11,36,378.884,92,1,High school,2,0,1,4,65,174,21,0
+216,31,No reason given,5,Wednesday,15,9,50,378.884,92,1,High school,0,0,0,0,76,178,24,0
+217,3,Diseases of the digestive system,5,Tuesday,51,18,38,378.884,92,0,High school,0,1,0,0,89,170,31,1
+218,36,Diseases of the muskuloskeletal system and connective tissue,5,Wednesday,13,18,50,378.884,92,0,High school,1,1,0,0,98,178,31,24
+219,10,Medical consultation,5,Friday,52,3,28,378.884,92,0,High school,1,1,0,4,80,172,27,8
+220,24,"Injury, poisoning, and certain other consequences of external cause",6,Monday,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,8
+221,10,Medical consultation,6,Monday,52,3,28,377.55,94,0,High school,1,1,0,4,80,172,27,8
+222,24,Diseases of the respiratory system,6,Tuesday,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,24
+223,15,Blood donation,6,Thursday,31,12,40,377.55,94,0,High school,1,1,0,1,73,171,25,4
+224,24,Diseases of the respiratory system,6,Friday,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,8
+225,3,Diseases of the digestive system,6,Monday,51,18,38,377.55,94,0,High school,0,1,0,0,89,170,31,8
+226,14,Blood donation,6,Monday,12,14,34,377.55,94,0,High school,2,1,0,0,95,196,25,4
+227,24,Diseases of the respiratory system,6,Monday,25,16,41,377.55,94,0,High school,0,1,0,0,67,170,23,8
+228,36,Diseases of the muskuloskeletal system and connective tissue,6,Wednesday,13,18,50,377.55,94,0,High school,1,1,0,0,98,178,31,8
+229,1,Diseases of the muskuloskeletal system and connective tissue,6,Friday,11,14,37,377.55,94,0,Postgraduate,1,0,0,1,88,172,29,16
+230,36,Blood donation,6,Tuesday,13,18,50,377.55,94,0,High school,1,1,0,0,98,178,31,1
+231,36,Diseases of the muskuloskeletal system and connective tissue,6,Wednesday,13,18,50,377.55,94,0,High school,1,1,0,0,98,178,31,80
+232,23,Medical consultation,6,Thursday,49,11,36,377.55,94,0,High school,2,0,1,4,65,174,21,8
+233,3,Diseases of the digestive system,6,Friday,51,18,38,377.55,94,0,High school,0,1,0,0,89,170,31,2
+234,32,Dental Consultation,6,Monday,48,29,49,377.55,94,0,High school,0,0,0,2,108,172,36,2
+235,28,Dental Consultation,6,Thursday,26,9,28,377.55,94,0,High school,1,0,0,2,69,169,24,2
+236,14,"Injury, poisoning, and certain other consequences of external cause",7,Tuesday,12,14,34,275.312,98,0,High school,2,1,0,0,95,196,25,16
+237,36,Certain Infectious and parasitic diseases,7,Wednesday,13,18,50,275.312,98,0,High school,1,1,0,0,98,178,31,8
+238,34,Mental and behavioral disorders,7,Friday,10,10,37,275.312,98,0,High school,0,0,0,0,83,172,28,8
+239,34,Patient follow-up,7,Friday,10,10,37,275.312,98,0,High school,0,0,0,0,83,172,28,4
+240,18,Patient follow-up,7,Tuesday,16,4,28,275.312,98,0,Graduate,0,0,0,0,84,182,25,8
+241,22,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",7,Thursday,26,9,30,275.312,98,0,Postgraduate,0,0,0,0,56,171,19,8
+242,14,Unjustified absence,7,Friday,12,14,34,275.312,98,0,High school,2,1,0,0,95,196,25,2
+243,18,Certain Infectious and parasitic diseases,7,Monday,16,4,28,275.312,98,0,Graduate,0,0,0,0,84,182,25,8
+244,18,Certain Infectious and parasitic diseases,7,Tuesday,16,4,28,275.312,98,0,Graduate,0,0,0,0,84,182,25,8
+245,30,Unjustified absence,7,Monday,27,6,29,275.312,98,0,High school,0,1,1,0,75,185,22,3
+246,10,Medical consultation,7,Tuesday,52,3,28,275.312,98,0,High school,1,1,0,4,80,172,27,8
+247,11,Patient follow-up,7,Wednesday,36,13,33,275.312,98,0,High school,2,1,0,1,90,172,30,8
+248,3,Patient follow-up,7,Thursday,51,18,38,275.312,98,0,High school,0,1,0,0,89,170,31,8
+249,11,"Injury, poisoning, and certain other consequences of external cause",7,Monday,36,13,33,275.312,98,0,High school,2,1,0,1,90,172,30,32
+250,11,"Injury, poisoning, and certain other consequences of external cause",7,Thursday,36,13,33,275.312,98,0,High school,2,1,0,1,90,172,30,8
+251,20,No reason given,7,Thursday,50,11,36,275.312,98,1,High school,4,1,0,0,65,168,23,0
+252,11,"Injury, poisoning, and certain other consequences of external cause",8,Friday,36,13,33,265.615,94,0,High school,2,1,0,1,90,172,30,8
+253,30,"Injury, poisoning, and certain other consequences of external cause",8,Friday,27,6,29,265.615,94,0,High school,0,1,1,0,75,185,22,3
+254,11,Blood donation,8,Monday,36,13,33,265.615,94,0,High school,2,1,0,1,90,172,30,1
+255,9,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",8,Tuesday,14,16,58,265.615,94,0,High school,2,0,0,1,65,172,22,8
+256,26,Diseases of the muskuloskeletal system and connective tissue,8,Thursday,26,13,43,265.615,94,0,High school,2,1,1,1,77,175,25,1
+257,26,Diseases of the genitourinary system,8,Thursday,26,13,43,265.615,94,0,High school,2,1,1,1,77,175,25,2
+258,20,Dental Consultation,8,Friday,50,11,36,265.615,94,0,High school,4,1,0,0,65,168,23,4
+259,11,Blood donation,8,Tuesday,36,13,33,265.615,94,0,High school,2,1,0,1,90,172,30,4
+260,33,Blood donation,8,Wednesday,25,14,47,265.615,94,0,High school,2,0,0,1,86,165,32,1
+261,21,Diseases of the digestive system,8,Thursday,11,8,33,265.615,94,0,Graduate,0,0,0,0,79,178,25,8
+262,22,Blood donation,8,Thursday,26,9,30,265.615,94,0,Postgraduate,0,0,0,0,56,171,19,1
+263,36,Diseases of the muskuloskeletal system and connective tissue,8,Thursday,13,18,50,265.615,94,0,High school,1,1,0,0,98,178,31,3
+264,33,Unjustified absence,8,Monday,25,14,47,265.615,94,0,High school,2,0,0,1,86,165,32,2
+265,1,Blood donation,8,Tuesday,11,14,37,265.615,94,0,Postgraduate,1,0,0,1,88,172,29,1
+266,36,Blood donation,8,Thursday,13,18,50,265.615,94,0,High school,1,1,0,0,98,178,31,1
+267,1,"Injury, poisoning, and certain other consequences of external cause",8,Thursday,11,14,37,265.615,94,0,Postgraduate,1,0,0,1,88,172,29,8
+268,10,Diseases of the ear and mastoid process,8,Tuesday,52,3,28,265.615,94,0,High school,1,1,0,4,80,172,27,8
+269,27,Diseases of the nervous system,8,Wednesday,42,7,27,265.615,94,0,High school,0,0,0,0,58,167,21,8
+270,3,Diseases of the digestive system,9,Monday,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,8
+271,3,Blood donation,9,Friday,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,3
+272,11,"Injury, poisoning, and certain other consequences of external cause",9,Wednesday,36,13,33,294.217,81,0,High school,2,1,0,1,90,172,30,24
+273,5,No reason given,9,Thursday,20,13,43,294.217,81,1,High school,1,1,0,0,106,167,38,0
+274,24,Diseases of the circulatory system,9,Monday,25,16,41,294.217,81,0,High school,0,1,0,0,67,170,23,16
+275,15,Dental Consultation,9,Tuesday,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,3
+276,8,No reason given,9,Tuesday,35,14,39,294.217,81,1,High school,2,1,0,2,100,170,35,0
+277,19,No reason given,9,Tuesday,50,12,32,294.217,81,1,High school,0,1,0,0,65,169,23,0
+278,3,Diseases of the muskuloskeletal system and connective tissue,9,Wednesday,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,8
+279,24,Diseases of the circulatory system,9,Wednesday,25,16,41,294.217,81,0,High school,0,1,0,0,67,170,23,32
+280,3,Blood donation,9,Thursday,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,1
+281,15,Dental Consultation,9,Friday,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,4
+282,20,Dental Consultation,9,Friday,50,11,36,294.217,81,0,High school,4,1,0,0,65,168,23,4
+283,5,Patient follow-up,9,Wednesday,20,13,43,294.217,81,0,High school,1,1,0,0,106,167,38,8
+284,36,Dental Consultation,9,Thursday,13,18,50,294.217,81,0,High school,1,1,0,0,98,178,31,1
+285,5,No reason given,9,Thursday,20,13,43,294.217,81,1,High school,1,1,0,0,106,167,38,0
+286,15,Dental Consultation,9,Friday,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,3
+287,15,Diseases of the eye and adnexa,9,Monday,31,12,40,294.217,81,0,High school,1,1,0,1,73,171,25,40
+288,3,Diseases of the muskuloskeletal system and connective tissue,9,Monday,51,18,38,294.217,81,0,High school,0,1,0,0,89,170,31,8
+289,11,Laboratory examination,10,Monday,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,8
+290,1,Patient follow-up,10,Monday,11,14,37,265.017,88,0,Postgraduate,1,0,0,1,88,172,29,4
+291,11,Patient follow-up,10,Monday,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,8
+292,11,Medical consultation,10,Friday,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,8
+293,36,No reason given,10,Friday,13,18,50,265.017,88,1,High school,1,1,0,0,98,178,31,0
+294,33,No reason given,10,Friday,25,14,47,265.017,88,1,High school,2,0,0,1,86,165,32,0
+295,22,Certain Infectious and parasitic diseases,10,Monday,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,8
+296,34,Diseases of the eye and adnexa,10,Monday,10,10,37,265.017,88,0,High school,0,0,0,0,83,172,28,3
+297,13,Medical consultation,10,Monday,17,12,31,265.017,88,0,High school,3,1,0,0,70,169,25,8
+298,3,Dental Consultation,10,Wednesday,51,18,38,265.017,88,0,High school,0,1,0,0,89,170,31,1
+299,22,Certain Infectious and parasitic diseases,10,Wednesday,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,64
+300,5,No reason given,10,Wednesday,20,13,43,265.017,88,1,High school,1,1,0,0,106,167,38,0
+301,11,"Injury, poisoning, and certain other consequences of external cause",10,Thursday,36,13,33,265.017,88,0,High school,2,1,0,1,90,172,30,16
+302,20,Dental Consultation,10,Friday,50,11,36,265.017,88,0,High school,4,1,0,0,65,168,23,3
+303,5,No reason given,10,Friday,20,13,43,265.017,88,1,High school,1,1,0,0,106,167,38,0
+304,5,Blood donation,10,Monday,20,13,43,265.017,88,0,High school,1,1,0,0,106,167,38,2
+305,5,Blood donation,10,Monday,20,13,43,265.017,88,0,High school,1,1,0,0,106,167,38,2
+306,36,Dental Consultation,10,Tuesday,13,18,50,265.017,88,0,High school,1,1,0,0,98,178,31,1
+307,15,Dental Consultation,10,Tuesday,31,12,40,265.017,88,0,High school,1,1,0,1,73,171,25,4
+308,22,Blood donation,10,Thursday,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,16
+309,36,Dental Consultation,10,Thursday,13,18,50,265.017,88,0,High school,1,1,0,0,98,178,31,1
+310,10,Diseases of the respiratory system,10,Monday,52,3,28,265.017,88,0,High school,1,1,0,4,80,172,27,8
+311,20,No reason given,10,Tuesday,50,11,36,265.017,88,1,High school,4,1,0,0,65,168,23,0
+312,15,No reason given,10,Tuesday,31,12,40,265.017,88,1,High school,1,1,0,1,73,171,25,0
+313,30,No reason given,10,Tuesday,27,6,29,265.017,88,1,High school,0,1,1,0,75,185,22,0
+314,22,Certain Infectious and parasitic diseases,10,Wednesday,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,5
+315,22,Diseases of the eye and adnexa,10,Wednesday,26,9,30,265.017,88,0,Postgraduate,0,0,0,0,56,171,19,5
+316,36,Blood donation,10,Thursday,13,18,50,265.017,88,0,High school,1,1,0,0,98,178,31,1
+317,34,Diseases of the digestive system,11,Monday,10,10,37,284.031,97,0,High school,0,0,0,0,83,172,28,8
+318,33,Blood donation,11,Monday,25,14,47,284.031,97,0,High school,2,0,0,1,86,165,32,2
+319,3,Diseases of the nervous system,11,Tuesday,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,8
+320,20,Dental Consultation,11,Friday,50,11,36,284.031,97,0,High school,4,1,0,0,65,168,23,3
+321,15,Blood donation,11,Monday,31,12,40,284.031,97,0,High school,1,1,0,1,73,171,25,1
+322,23,Certain Infectious and parasitic diseases,11,Monday,49,11,36,284.031,97,0,High school,2,0,1,4,65,174,21,8
+323,14,Diseases of the digestive system,11,Monday,12,14,34,284.031,97,0,High school,2,1,0,0,95,196,25,120
+324,5,Patient follow-up,11,Monday,20,13,43,284.031,97,0,High school,1,1,0,0,106,167,38,8
+325,18,No reason given,11,Tuesday,16,4,28,284.031,97,1,Graduate,0,0,0,0,84,182,25,0
+326,1,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",11,Wednesday,11,14,37,284.031,97,0,Postgraduate,1,0,0,1,88,172,29,1
+327,34,Diseases of the digestive system,11,Wednesday,10,10,37,284.031,97,0,High school,0,0,0,0,83,172,28,3
+328,1,Unjustified absence,11,Thursday,11,14,37,284.031,97,0,Postgraduate,1,0,0,1,88,172,29,2
+329,3,Dental Consultation,11,Thursday,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,3
+330,24,Diseases of the muskuloskeletal system and connective tissue,11,Friday,25,16,41,284.031,97,0,High school,0,1,0,0,67,170,23,8
+331,15,Diseases of the ckin and subcutaneous tissue,11,Friday,31,12,40,284.031,97,0,High school,1,1,0,1,73,171,25,4
+332,24,Diseases of the muskuloskeletal system and connective tissue,11,Monday,25,16,41,284.031,97,0,High school,0,1,0,0,67,170,23,8
+333,3,Dental Consultation,11,Tuesday,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,1
+334,20,Diseases of the respiratory system,11,Wednesday,50,11,36,284.031,97,0,High school,4,1,0,0,65,168,23,8
+335,20,"Pregnancy, childbirth, and the puerperium",11,Friday,50,11,36,284.031,97,0,High school,4,1,0,0,65,168,23,8
+336,23,No reason given,11,Friday,49,11,36,284.031,97,1,High school,2,0,1,4,65,174,21,0
+337,7,No reason given,11,Tuesday,5,14,39,284.031,97,1,High school,2,1,1,0,68,168,24,0
+338,3,Blood donation,11,Thursday,51,18,38,284.031,97,0,High school,0,1,0,0,89,170,31,1
+339,28,Diseases of the ckin and subcutaneous tissue,12,Monday,26,9,28,236.629,93,0,High school,1,0,0,2,69,169,24,3
+340,3,Dental Consultation,12,Monday,51,18,38,236.629,93,0,High school,0,1,0,0,89,170,31,2
+341,3,Dental Consultation,12,Monday,51,18,38,236.629,93,0,High school,0,1,0,0,89,170,31,1
+342,1,Blood donation,12,Monday,11,14,37,236.629,93,0,Postgraduate,1,0,0,1,88,172,29,3
+343,36,Dental Consultation,12,Tuesday,13,18,50,236.629,93,0,High school,1,1,0,0,98,178,31,1
+344,20,Dental Consultation,12,Friday,50,11,36,236.629,93,0,High school,4,1,0,0,65,168,23,4
+345,24,"Endocrine, nutritional and metabolic disease",12,Thursday,25,16,41,236.629,93,0,High school,0,1,0,0,67,170,23,8
+346,3,Dental Consultation,12,Thursday,51,18,38,236.629,93,0,High school,0,1,0,0,89,170,31,1
+347,3,Dental Consultation,12,Friday,51,18,38,236.629,93,0,High school,0,1,0,0,89,170,31,1
+348,22,Blood donation,12,Tuesday,26,9,30,236.629,93,0,Postgraduate,0,0,0,0,56,171,19,1
+349,34,Unjustified absence,12,Tuesday,10,10,37,236.629,93,0,High school,0,0,0,0,83,172,28,8
+350,1,Unjustified absence,12,Thursday,11,14,37,236.629,93,0,Postgraduate,1,0,0,1,88,172,29,2
+351,3,Dental Consultation,12,Friday,51,18,38,236.629,93,0,High school,0,1,0,0,89,170,31,1
+352,5,Diseases of the muskuloskeletal system and connective tissue,12,Tuesday,20,13,43,236.629,93,0,High school,1,1,0,0,106,167,38,8
+353,1,Diseases of the genitourinary system,12,Tuesday,11,14,37,236.629,93,0,Postgraduate,1,0,0,1,88,172,29,4
+354,20,Patient follow-up,12,Wednesday,50,11,36,236.629,93,0,High school,4,1,0,0,65,168,23,8
+355,30,Dental Consultation,12,Monday,27,6,29,236.629,93,0,High school,0,1,1,0,75,185,22,2
+356,3,Dental Consultation,12,Monday,51,18,38,236.629,93,0,High school,0,1,0,0,89,170,31,3
+357,11,"Injury, poisoning, and certain other consequences of external cause",12,Monday,36,13,33,236.629,93,0,High school,2,1,0,1,90,172,30,8
+358,28,Blood donation,1,Wednesday,26,9,28,330.061,100,0,High school,1,0,0,2,69,169,24,5
+359,34,"Injury, poisoning, and certain other consequences of external cause",1,Monday,10,10,37,330.061,100,0,High school,0,0,0,0,83,172,28,32
+360,14,Blood donation,1,Monday,12,14,34,330.061,100,0,High school,2,1,0,0,95,196,25,2
+361,1,Diseases of the muskuloskeletal system and connective tissue,1,Tuesday,11,14,37,330.061,100,0,Postgraduate,1,0,0,1,88,172,29,1
+362,14,Blood donation,1,Tuesday,12,14,34,330.061,100,0,High school,2,1,0,0,95,196,25,4
+363,11,Patient follow-up,1,Monday,36,13,33,330.061,100,0,High school,2,1,0,1,90,172,30,8
+364,15,Diseases of the blood and blood-forming organs,1,Wednesday,31,12,40,330.061,100,0,High school,1,1,0,1,73,171,25,8
+365,5,Patient follow-up,1,Monday,20,13,43,330.061,100,0,High school,1,1,0,0,106,167,38,8
+366,36,Patient follow-up,1,Monday,13,18,50,330.061,100,0,High school,1,1,0,0,98,178,31,4
+367,3,Dental Consultation,1,Wednesday,51,18,38,330.061,100,0,High school,0,1,0,0,89,170,31,1
+368,3,Dental Consultation,1,Friday,51,18,38,330.061,100,0,High school,0,1,0,0,89,170,31,1
+369,34,Dental Consultation,2,Tuesday,10,10,37,251.818,96,0,High school,0,0,0,0,83,172,28,2
+370,3,Physiotherapy,2,Wednesday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+371,28,Diseases of the eye and adnexa,2,Wednesday,26,9,28,251.818,96,0,High school,1,0,0,2,69,169,24,1
+372,11,Medical consultation,2,Friday,36,13,33,251.818,96,0,High school,2,1,0,1,90,172,30,3
+373,20,Dental Consultation,2,Friday,50,11,36,251.818,96,0,High school,4,1,0,0,65,168,23,3
+374,3,Blood donation,2,Friday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+375,3,Physiotherapy,2,Monday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,2
+376,3,Physiotherapy,2,Wednesday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+377,3,Diseases of the respiratory system,2,Thursday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,8
+378,24,Patient follow-up,2,Thursday,25,16,41,251.818,96,0,High school,0,1,0,0,67,170,23,8
+379,3,Physiotherapy,2,Friday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+380,6,Medical consultation,2,Monday,29,13,33,251.818,96,0,High school,2,0,0,2,69,167,25,8
+381,3,Physiotherapy,2,Monday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+382,24,Blood donation,2,Tuesday,25,16,41,251.818,96,0,High school,0,1,0,0,67,170,23,2
+383,15,Blood donation,2,Tuesday,31,12,40,251.818,96,0,High school,1,1,0,1,73,171,25,2
+384,30,Diseases of the digestive system,2,Wednesday,27,6,29,251.818,96,0,High school,0,1,1,0,75,185,22,16
+385,3,Physiotherapy,2,Wednesday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+386,3,Physiotherapy,2,Friday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+387,24,Diseases of the respiratory system,2,Friday,25,16,41,251.818,96,0,High school,0,1,0,0,67,170,23,24
+388,3,Physiotherapy,2,Wednesday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+389,3,Physiotherapy,2,Friday,51,18,38,251.818,96,0,High school,0,1,0,0,89,170,31,3
+390,34,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",3,Tuesday,10,10,37,244.387,98,0,High school,0,0,0,0,83,172,28,8
+391,24,"Injury, poisoning, and certain other consequences of external cause",3,Wednesday,25,16,41,244.387,98,0,High school,0,1,0,0,67,170,23,16
+392,24,Dental Consultation,3,Friday,25,16,41,244.387,98,0,High school,0,1,0,0,67,170,23,2
+393,20,Dental Consultation,3,Friday,50,11,36,244.387,98,0,High school,4,1,0,0,65,168,23,4
+394,3,Dental Consultation,3,Monday,51,18,38,244.387,98,0,High school,0,1,0,0,89,170,31,2
+395,1,Medical consultation,3,Monday,11,14,37,244.387,98,0,Postgraduate,1,0,0,1,88,172,29,8
+396,17,Medical consultation,3,Tuesday,22,17,40,244.387,98,0,Graduate,2,0,1,0,63,170,22,8
+397,23,Medical consultation,3,Tuesday,49,11,36,244.387,98,0,High school,2,0,1,4,65,174,21,8
+398,3,Dental Consultation,3,Monday,51,18,38,244.387,98,0,High school,0,1,0,0,89,170,31,16
+399,10,Medical consultation,3,Wednesday,52,3,28,244.387,98,0,High school,1,1,0,4,80,172,27,8
+400,13,No reason given,3,Wednesday,17,12,31,244.387,98,1,High school,3,1,0,0,70,169,25,0
+401,1,Factors influencing health status and contact with health services,3,Thursday,11,14,37,244.387,98,0,Postgraduate,1,0,0,1,88,172,29,8
+402,36,Blood donation,3,Friday,13,18,50,244.387,98,0,High school,1,1,0,0,98,178,31,2
+403,36,Diseases of the genitourinary system,3,Tuesday,13,18,50,244.387,98,0,High school,1,1,0,0,98,178,31,3
+404,36,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,13,18,50,244.387,98,0,High school,1,1,0,0,98,178,31,8
+405,1,No reason given,3,Thursday,11,14,37,244.387,98,1,Postgraduate,1,0,0,1,88,172,29,0
+406,24,No reason given,3,Thursday,25,16,41,244.387,98,1,High school,0,1,0,0,67,170,23,0
+407,36,No reason given,3,Thursday,13,18,50,244.387,98,1,High school,1,1,0,0,98,178,31,0
+408,3,Dental Consultation,3,Friday,51,18,38,244.387,98,0,High school,0,1,0,0,89,170,31,8
+409,11,Medical consultation,3,Friday,36,13,33,244.387,98,0,High school,2,1,0,1,90,172,30,8
+410,20,"Injury, poisoning, and certain other consequences of external cause",3,Monday,50,11,36,244.387,98,0,High school,4,1,0,0,65,168,23,8
+411,24,Dental Consultation,3,Tuesday,25,16,41,244.387,98,0,High school,0,1,0,0,67,170,23,2
+412,3,Dental Consultation,4,Wednesday,51,18,38,239.409,98,0,High school,0,1,0,0,89,170,31,4
+413,20,Dental Consultation,4,Friday,50,11,36,239.409,98,0,High school,4,1,0,0,65,168,23,3
+414,18,Patient follow-up,4,Friday,16,4,28,239.409,98,0,Graduate,0,0,0,0,84,182,25,4
+415,13,Medical consultation,4,Monday,17,12,31,239.409,98,0,High school,3,1,0,0,70,169,25,4
+416,33,Patient follow-up,4,Monday,25,14,47,239.409,98,0,High school,2,0,0,1,86,165,32,4
+417,18,Blood donation,4,Wednesday,16,4,28,239.409,98,0,Graduate,0,0,0,0,84,182,25,8
+418,3,Dental Consultation,4,Wednesday,51,18,38,239.409,98,0,High school,0,1,0,0,89,170,31,8
+419,36,Blood donation,4,Monday,13,18,50,239.409,98,0,High school,1,1,0,0,98,178,31,1
+420,36,Diseases of the muskuloskeletal system and connective tissue,4,Wednesday,13,18,50,239.409,98,0,High school,1,1,0,0,98,178,31,120
+421,26,Dental Consultation,4,Friday,26,13,43,239.409,98,0,High school,2,1,1,1,77,175,25,8
+422,20,Dental Consultation,4,Friday,50,11,36,239.409,98,0,High school,4,1,0,0,65,168,23,4
+423,3,Dental Consultation,4,Monday,51,18,38,239.409,98,0,High school,0,1,0,0,89,170,31,4
+424,34,Diseases of the digestive system,4,Wednesday,10,10,37,239.409,98,0,High school,0,0,0,0,83,172,28,2
+425,5,Diseases of the muskuloskeletal system and connective tissue,5,Monday,20,13,43,246.074,99,0,High school,1,1,0,0,106,167,38,16
+426,33,Blood donation,5,Wednesday,25,14,47,246.074,99,0,High school,2,0,0,1,86,165,32,2
+427,13,Diseases of the respiratory system,5,Monday,17,12,31,246.074,99,0,High school,3,1,0,0,70,169,25,8
+428,22,Blood donation,5,Wednesday,26,9,30,246.074,99,0,Postgraduate,0,0,0,0,56,171,19,3
+429,3,Dental Consultation,5,Wednesday,51,18,38,246.074,99,0,High school,0,1,0,0,89,170,31,4
+430,10,Blood donation,5,Thursday,52,3,28,246.074,99,0,High school,1,1,0,4,80,172,27,1
+431,20,Dental Consultation,5,Friday,50,11,36,246.074,99,0,High school,4,1,0,0,65,168,23,3
+432,17,Diseases of the digestive system,5,Monday,22,17,40,246.074,99,0,Graduate,2,0,1,0,63,170,22,2
+433,17,Diseases of the ear and mastoid process,5,Monday,22,17,40,246.074,99,0,Graduate,2,0,1,0,63,170,22,3
+434,9,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",5,Wednesday,14,16,58,246.074,99,0,High school,2,0,0,1,65,172,22,8
+435,28,Unjustified absence,5,Wednesday,26,9,28,246.074,99,0,High school,1,0,0,2,69,169,24,3
+436,18,Diseases of the muskuloskeletal system and connective tissue,5,Friday,16,4,28,246.074,99,0,Graduate,0,0,0,0,84,182,25,8
+437,22,Unjustified absence,5,Monday,26,9,30,246.074,99,0,Postgraduate,0,0,0,0,56,171,19,2
+438,34,Dental Consultation,5,Monday,10,10,37,246.074,99,0,High school,0,0,0,0,83,172,28,1
+439,1,Certain Infectious and parasitic diseases,5,Monday,11,14,37,246.074,99,0,Postgraduate,1,0,0,1,88,172,29,8
+440,22,Blood donation,5,Wednesday,26,9,30,246.074,99,0,Postgraduate,0,0,0,0,56,171,19,3
+441,34,Blood donation,6,Monday,10,10,37,253.957,95,0,High school,0,0,0,0,83,172,28,3
+442,3,Dental Consultation,6,Monday,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,3
+443,34,Dental Consultation,6,Tuesday,10,10,37,253.957,95,0,High school,0,0,0,0,83,172,28,2
+444,28,Blood donation,6,Thursday,26,9,28,253.957,95,0,High school,1,0,0,2,69,169,24,4
+445,20,Dental Consultation,6,Friday,50,11,36,253.957,95,0,High school,4,1,0,0,65,168,23,4
+446,3,No reason given,6,Friday,51,18,38,253.957,95,1,High school,0,1,0,0,89,170,31,0
+447,15,Diseases of the muskuloskeletal system and connective tissue,6,Monday,31,12,40,253.957,95,0,High school,1,1,0,1,73,171,25,40
+448,3,Dental Consultation,6,Monday,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,24
+449,24,Dental Consultation,6,Tuesday,25,16,41,253.957,95,0,High school,0,1,0,0,67,170,23,3
+450,3,Dental Consultation,6,Monday,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,4
+451,5,Patient follow-up,6,Tuesday,20,13,43,253.957,95,0,High school,1,1,0,0,106,167,38,8
+452,3,Dental Consultation,6,Monday,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,2
+453,28,Blood donation,6,Wednesday,26,9,28,253.957,95,0,High school,1,0,0,2,69,169,24,2
+454,36,Blood donation,6,Wednesday,13,18,50,253.957,95,0,High school,1,1,0,0,98,178,31,2
+455,3,Mental and behavioral disorders,6,Wednesday,51,18,38,253.957,95,0,High school,0,1,0,0,89,170,31,8
+456,22,Factors influencing health status and contact with health services,6,Wednesday,26,9,30,253.957,95,0,Postgraduate,0,0,0,0,56,171,19,2
+457,24,Dental Consultation,6,Friday,25,16,41,253.957,95,0,High school,0,1,0,0,67,170,23,2
+458,18,Diseases of the digestive system,6,Tuesday,16,4,28,253.957,95,0,Graduate,0,0,0,0,84,182,25,1
+459,1,Diseases of the muskuloskeletal system and connective tissue,6,Tuesday,11,14,37,253.957,95,0,Postgraduate,1,0,0,1,88,172,29,8
+460,22,Blood donation,7,Thursday,26,9,30,230.29,92,0,Postgraduate,0,0,0,0,56,171,19,2
+461,28,Unjustified absence,7,Thursday,26,9,28,230.29,92,0,High school,1,0,0,2,69,169,24,4
+462,20,Diseases of the muskuloskeletal system and connective tissue,7,Friday,50,11,36,230.29,92,0,High school,4,1,0,0,65,168,23,8
+463,21,Diseases of the eye and adnexa,7,Monday,11,8,33,230.29,92,0,Graduate,0,0,0,0,79,178,25,8
+464,18,Unjustified absence,7,Friday,16,4,28,230.29,92,0,Graduate,0,0,0,0,84,182,25,8
+465,34,Patient follow-up,7,Friday,10,10,37,230.29,92,0,High school,0,0,0,0,83,172,28,8
+466,20,Patient follow-up,7,Monday,50,11,36,230.29,92,0,High school,4,1,0,0,65,168,23,4
+467,34,Dental Consultation,7,Tuesday,10,10,37,230.29,92,0,High school,0,0,0,0,83,172,28,8
+468,26,"Pregnancy, childbirth, and the puerperium",7,Monday,26,13,43,230.29,92,0,High school,2,1,1,1,77,175,25,8
+469,2,Blood donation,7,Monday,29,12,48,230.29,92,0,High school,1,0,1,5,88,163,33,1
+470,24,Dental Consultation,7,Tuesday,25,16,41,230.29,92,0,High school,0,1,0,0,67,170,23,2
+471,28,Diseases of the circulatory system,7,Tuesday,26,9,28,230.29,92,0,High school,1,0,0,2,69,169,24,112
+472,3,Dental Consultation,7,Tuesday,51,18,38,230.29,92,0,High school,0,1,0,0,89,170,31,1
+473,36,Blood donation,7,Friday,13,18,50,230.29,92,0,High school,1,1,0,0,98,178,31,1
+474,10,Medical consultation,7,Friday,52,3,28,230.29,92,0,High school,1,1,0,4,80,172,27,8
+475,11,Medical consultation,7,Monday,36,13,33,230.29,92,0,High school,2,1,0,1,90,172,30,8
+476,5,Patient follow-up,7,Monday,20,13,43,230.29,92,0,High school,1,1,0,0,106,167,38,8
+477,24,Dental Consultation,7,Tuesday,25,16,41,230.29,92,0,High school,0,1,0,0,67,170,23,2
+478,15,Dental Consultation,7,Thursday,31,12,40,230.29,92,0,High school,1,1,0,1,73,171,25,1
+479,7,Blood donation,7,Thursday,5,14,39,230.29,92,0,High school,2,1,1,0,68,168,24,2
+480,3,Unjustified absence,8,Thursday,51,18,38,249.797,93,0,High school,0,1,0,0,89,170,31,4
+481,17,Unjustified absence,8,Monday,22,17,40,249.797,93,0,Graduate,2,0,1,0,63,170,22,1
+482,24,Dental Consultation,8,Tuesday,25,16,41,249.797,93,0,High school,0,1,0,0,67,170,23,4
+483,34,Dental Consultation,8,Tuesday,10,10,37,249.797,93,0,High school,0,0,0,0,83,172,28,4
+484,11,Patient follow-up,8,Tuesday,36,13,33,249.797,93,0,High school,2,1,0,1,90,172,30,8
+485,5,Patient follow-up,8,Tuesday,20,13,43,249.797,93,0,High school,1,1,0,0,106,167,38,8
+486,15,Dental Consultation,8,Thursday,31,12,40,249.797,93,0,High school,1,1,0,1,73,171,25,4
+487,3,Unjustified absence,8,Monday,51,18,38,249.797,93,0,High school,0,1,0,0,89,170,31,4
+488,17,Unjustified absence,8,Tuesday,22,17,40,249.797,93,0,Graduate,2,0,1,0,63,170,22,8
+489,18,Blood donation,8,Thursday,16,4,28,249.797,93,0,Graduate,0,0,0,0,84,182,25,16
+490,1,Blood donation,8,Tuesday,11,14,37,249.797,93,0,Postgraduate,1,0,0,1,88,172,29,4
+491,24,Dental Consultation,8,Tuesday,25,16,41,249.797,93,0,High school,0,1,0,0,67,170,23,1
+492,34,Dental Consultation,8,Tuesday,10,10,37,249.797,93,0,High school,0,0,0,0,83,172,28,5
+493,15,Dental Consultation,8,Thursday,31,12,40,249.797,93,0,High school,1,1,0,1,73,171,25,2
+494,20,Dental Consultation,8,Monday,50,11,36,249.797,93,0,High school,4,1,0,0,65,168,23,3
+495,24,Dental Consultation,9,Tuesday,25,16,41,261.756,87,0,High school,0,1,0,0,67,170,23,1
+496,24,Dental Consultation,9,Tuesday,25,16,41,261.756,87,0,High school,0,1,0,0,67,170,23,1
+497,34,Dental Consultation,9,Tuesday,10,10,37,261.756,87,0,High school,0,0,0,0,83,172,28,3
+498,14,Blood donation,9,Tuesday,12,14,34,261.756,87,0,High school,2,1,0,0,95,196,25,2
+499,15,Dental Consultation,9,Thursday,31,12,40,261.756,87,0,High school,1,1,0,1,73,171,25,2
+500,22,Blood donation,9,Friday,26,9,30,261.756,87,0,Postgraduate,0,0,0,0,56,171,19,8
+501,33,Blood donation,9,Friday,25,14,47,261.756,87,0,High school,2,0,0,1,86,165,32,1
+502,3,Blood donation,9,Monday,51,18,38,261.756,87,0,High school,0,1,0,0,89,170,31,4
+503,28,Blood donation,9,Wednesday,26,9,28,261.756,87,0,High school,1,0,0,2,69,169,24,1
+504,22,Blood donation,9,Monday,26,9,30,261.756,87,0,Postgraduate,0,0,0,0,56,171,19,2
+505,13,Blood donation,9,Tuesday,17,12,31,261.756,87,0,High school,3,1,0,0,70,169,25,8
+506,10,Medical consultation,9,Tuesday,52,3,28,261.756,87,0,High school,1,1,0,4,80,172,27,8
+507,32,"Endocrine, nutritional and metabolic disease",10,Thursday,48,29,49,284.853,91,0,High school,0,0,0,2,108,172,36,1
+508,25,Diseases of the digestive system,10,Thursday,16,8,32,284.853,91,0,Postgraduate,0,0,0,0,75,178,25,3
+509,24,Patient follow-up,10,Friday,25,16,41,284.853,91,0,High school,0,1,0,0,67,170,23,8
+510,32,Diseases of the genitourinary system,10,Wednesday,48,29,49,284.853,91,0,High school,0,0,0,2,108,172,36,3
+511,15,Dental Consultation,10,Wednesday,31,12,40,284.853,91,0,High school,1,1,0,1,73,171,25,2
+512,34,Blood donation,10,Tuesday,10,10,37,284.853,91,0,High school,0,0,0,0,83,172,28,2
+513,32,Blood donation,10,Thursday,48,29,49,284.853,91,0,High school,0,0,0,2,108,172,36,2
+514,15,Blood donation,10,Friday,31,12,40,284.853,91,0,High school,1,1,0,1,73,171,25,1
+515,28,Blood donation,10,Tuesday,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,2
+516,13,Blood donation,10,Tuesday,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
+517,13,Blood donation,10,Tuesday,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,3
+518,28,Blood donation,10,Tuesday,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,4
+519,13,Patient follow-up,10,Tuesday,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
+520,3,Dental Consultation,10,Wednesday,51,18,38,284.853,91,0,High school,0,1,0,0,89,170,31,3
+521,9,Certain Infectious and parasitic diseases,10,Wednesday,14,16,58,284.853,91,0,High school,2,0,0,1,65,172,22,1
+522,15,Blood donation,10,Wednesday,31,12,40,284.853,91,0,High school,1,1,0,1,73,171,25,1
+523,13,Diseases of the respiratory system,10,Thursday,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
+524,28,Diseases of the muskuloskeletal system and connective tissue,10,Thursday,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,1
+525,13,Diseases of the respiratory system,10,Friday,17,12,31,284.853,91,0,High school,3,1,0,0,70,169,25,8
+526,28,Diseases of the respiratory system,10,Friday,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,3
+527,6,Blood donation,10,Monday,29,13,33,284.853,91,0,High school,2,0,0,2,69,167,25,8
+528,25,Diseases of the nervous system,10,Monday,16,8,32,284.853,91,0,Postgraduate,0,0,0,0,75,178,25,8
+529,33,Diseases of the respiratory system,10,Monday,25,14,47,284.853,91,0,High school,2,0,0,1,86,165,32,8
+530,28,No reason given,10,Monday,26,9,28,284.853,91,1,High school,1,0,0,2,69,169,24,0
+531,28,Diseases of the muskuloskeletal system and connective tissue,10,Tuesday,26,9,28,284.853,91,0,High school,1,0,0,2,69,169,24,3
+532,3,Factors influencing health status and contact with health services,11,Tuesday,51,18,38,268.519,93,0,High school,0,1,0,0,89,170,31,1
+533,34,Dental Consultation,11,Wednesday,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,3
+534,18,Neoplasms,11,Wednesday,16,4,28,268.519,93,0,Graduate,0,0,0,0,84,182,25,24
+535,3,Dental Consultation,11,Friday,51,18,38,268.519,93,0,High school,0,1,0,0,89,170,31,1
+536,34,Diseases of the circulatory system,11,Tuesday,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,8
+537,11,Laboratory examination,11,Wednesday,36,13,33,268.519,93,0,High school,2,1,0,1,90,172,30,8
+538,25,Certain Infectious and parasitic diseases,11,Friday,16,8,32,268.519,93,0,Postgraduate,0,0,0,0,75,178,25,8
+539,28,Blood donation,11,Friday,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,4
+540,10,Medical consultation,11,Tuesday,52,3,28,268.519,93,0,High school,1,1,0,4,80,172,27,8
+541,15,Dental Consultation,11,Wednesday,31,12,40,268.519,93,0,High school,1,1,0,1,73,171,25,2
+542,34,Diseases of the muskuloskeletal system and connective tissue,11,Thursday,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,2
+543,28,Diseases of the genitourinary system,11,Thursday,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,3
+544,3,Dental Consultation,11,Monday,51,18,38,268.519,93,0,High school,0,1,0,0,89,170,31,1
+545,34,Blood donation,11,Monday,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,8
+546,34,Diseases of the ear and mastoid process,11,Tuesday,10,10,37,268.519,93,0,High school,0,0,0,0,83,172,28,8
+547,28,Blood donation,11,Tuesday,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,2
+548,15,No reason given,11,Tuesday,31,12,40,268.519,93,1,High school,1,1,0,1,73,171,25,0
+549,11,No reason given,11,Wednesday,36,13,33,268.519,93,1,High school,2,1,0,1,90,172,30,0
+550,33,Diseases of the genitourinary system,11,Thursday,25,14,47,268.519,93,0,High school,2,0,0,1,86,165,32,4
+551,5,No reason given,11,Thursday,20,13,43,268.519,93,1,High school,1,1,0,0,106,167,38,0
+552,28,Blood donation,11,Friday,26,9,28,268.519,93,0,High school,1,0,0,2,69,169,24,2
+553,13,Patient follow-up,11,Friday,17,12,31,268.519,93,0,High school,3,1,0,0,70,169,25,8
+554,10,Dental Consultation,11,Monday,52,3,28,268.519,93,0,High school,1,1,0,4,80,172,27,2
+555,3,Diseases of the muskuloskeletal system and connective tissue,12,Tuesday,51,18,38,280.54900000000004,98,0,High school,0,1,0,0,89,170,31,32
+556,15,Dental Consultation,12,Wednesday,31,12,40,280.54900000000004,98,0,High school,1,1,0,1,73,171,25,1
+557,28,Blood donation,12,Wednesday,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
+558,22,Diseases of the muskuloskeletal system and connective tissue,12,Friday,26,9,30,280.54900000000004,98,0,Postgraduate,0,0,0,0,56,171,19,1
+559,28,Blood donation,12,Friday,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
+560,28,Blood donation,12,Wednesday,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
+561,10,Diseases of the genitourinary system,12,Thursday,52,3,28,280.54900000000004,98,0,High school,1,1,0,4,80,172,27,4
+562,17,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",12,Friday,22,17,40,280.54900000000004,98,0,Graduate,2,0,1,0,63,170,22,2
+563,5,Patient follow-up,12,Friday,20,13,43,280.54900000000004,98,0,High school,1,1,0,0,106,167,38,8
+564,12,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",12,Monday,51,1,31,280.54900000000004,98,0,Graduate,1,1,0,8,68,178,21,8
+565,22,Diseases of the muskuloskeletal system and connective tissue,12,Tuesday,26,9,30,280.54900000000004,98,0,Postgraduate,0,0,0,0,56,171,19,16
+566,28,Blood donation,12,Tuesday,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,2
+567,28,Blood donation,12,Thursday,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,3
+568,28,Blood donation,12,Monday,26,9,28,280.54900000000004,98,0,High school,1,0,0,2,69,169,24,2
+569,14,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",12,Tuesday,12,14,34,280.54900000000004,98,0,High school,2,1,0,0,95,196,25,80
+570,22,Diseases of the ckin and subcutaneous tissue,1,Monday,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,24
+571,22,Diseases of the ckin and subcutaneous tissue,1,Thursday,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,16
+572,17,Unjustified absence,1,Thursday,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,2
+573,17,Unjustified absence,1,Friday,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,2
+574,22,Diseases of the muskuloskeletal system and connective tissue,1,Monday,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,3
+575,17,Unjustified absence,1,Wednesday,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,2
+576,32,Diseases of the respiratory system,1,Thursday,48,29,49,313.532,96,0,High school,0,0,0,2,108,172,36,8
+577,17,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Friday,22,17,40,313.532,96,0,Graduate,2,0,1,0,63,170,22,3
+578,22,Physiotherapy,1,Monday,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,2
+579,14,"Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified",1,Tuesday,12,14,34,313.532,96,0,High school,2,1,0,0,95,196,25,8
+580,22,Physiotherapy,1,Wednesday,26,9,30,313.532,96,0,Postgraduate,0,0,0,0,56,171,19,2
+581,3,Physiotherapy,1,Wednesday,51,18,38,313.532,96,0,High school,0,1,0,0,89,170,31,3
+582,11,Diseases of the muskuloskeletal system and connective tissue,1,Wednesday,36,13,33,313.532,96,0,High school,2,1,0,1,90,172,30,8
+583,3,Physiotherapy,1,Thursday,51,18,38,313.532,96,0,High school,0,1,0,0,89,170,31,3
+584,3,Physiotherapy,1,Friday,51,18,38,313.532,96,0,High school,0,1,0,0,89,170,31,2
+585,3,Diseases of the muskuloskeletal system and connective tissue,2,Tuesday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,8
+586,28,Blood donation,2,Tuesday,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,3
+587,33,Certain Infectious and parasitic diseases,2,Wednesday,25,14,47,264.249,97,0,High school,2,0,0,1,86,165,32,8
+588,3,Physiotherapy,2,Wednesday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+589,28,Dental Consultation,2,Thursday,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,3
+590,3,Physiotherapy,2,Thursday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+591,22,Physiotherapy,2,Thursday,26,9,30,264.249,97,0,Postgraduate,0,0,0,0,56,171,19,2
+592,29,Dental Consultation,2,Friday,15,15,41,264.249,97,0,Master and Doctor,2,1,0,2,94,182,28,2
+593,3,Physiotherapy,2,Friday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+594,12,"Injury, poisoning, and certain other consequences of external cause",2,Monday,51,1,31,264.249,97,0,Graduate,1,1,0,8,68,178,21,2
+595,3,Physiotherapy,2,Monday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+596,28,Diseases of the eye and adnexa,2,Tuesday,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,8
+597,3,Physiotherapy,2,Wednesday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,3
+598,3,Physiotherapy,2,Thursday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,3
+599,28,Unjustified absence,2,Thursday,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,3
+600,22,Diseases of the muskuloskeletal system and connective tissue,2,Thursday,26,9,30,264.249,97,0,Postgraduate,0,0,0,0,56,171,19,2
+601,17,Blood donation,2,Friday,22,17,40,264.249,97,0,Graduate,2,0,1,0,63,170,22,2
+602,3,Physiotherapy,2,Friday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,3
+603,12,Diseases of the ckin and subcutaneous tissue,2,Wednesday,51,1,31,264.249,97,0,Graduate,1,1,0,8,68,178,21,3
+604,22,Physiotherapy,2,Wednesday,26,9,30,264.249,97,0,Postgraduate,0,0,0,0,56,171,19,2
+605,3,Physiotherapy,2,Wednesday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+606,3,Diseases of the muskuloskeletal system and connective tissue,2,Thursday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,8
+607,3,Physiotherapy,2,Friday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+608,14,Unjustified absence,2,Monday,12,14,34,264.249,97,0,High school,2,1,0,0,95,196,25,5
+609,25,Unjustified absence,2,Monday,16,8,32,264.249,97,0,Postgraduate,0,0,0,0,75,178,25,3
+610,3,Physiotherapy,2,Monday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+611,28,Diseases of the eye and adnexa,2,Monday,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,2
+612,3,Physiotherapy,2,Tuesday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+613,33,Blood donation,2,Tuesday,25,14,47,264.249,97,0,High school,2,0,0,1,86,165,32,2
+614,28,Unjustified absence,2,Tuesday,26,9,28,264.249,97,0,High school,1,0,0,2,69,169,24,2
+615,3,Physiotherapy,2,Wednesday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+616,3,Physiotherapy,2,Thursday,51,18,38,264.249,97,0,High school,0,1,0,0,89,170,31,2
+617,25,Unjustified absence,2,Friday,16,8,32,264.249,97,0,Postgraduate,0,0,0,0,75,178,25,2
+618,3,Physiotherapy,3,Monday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
+619,33,Blood donation,3,Monday,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,2
+620,9,Unjustified absence,3,Tuesday,14,16,58,222.196,99,0,High school,2,0,0,1,65,172,22,3
+621,33,Unjustified absence,3,Tuesday,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,3
+622,9,Diseases of the ckin and subcutaneous tissue,3,Tuesday,14,16,58,222.196,99,0,High school,2,0,0,1,65,172,22,112
+623,3,Physiotherapy,3,Wednesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
+624,28,Physiotherapy,3,Thursday,26,9,28,222.196,99,0,High school,1,0,0,2,69,169,24,2
+625,3,Physiotherapy,3,Thursday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+626,28,Unjustified absence,3,Thursday,26,9,28,222.196,99,0,High school,1,0,0,2,69,169,24,2
+627,22,Physiotherapy,3,Friday,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,3
+628,25,Unjustified absence,3,Monday,16,8,32,222.196,99,0,Postgraduate,0,0,0,0,75,178,25,3
+629,10,"Injury, poisoning, and certain other consequences of external cause",3,Monday,52,3,28,222.196,99,0,High school,1,1,0,4,80,172,27,8
+630,3,Diseases of the muskuloskeletal system and connective tissue,3,Tuesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,8
+631,3,Physiotherapy,3,Wednesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
+632,3,Physiotherapy,3,Thursday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+633,22,Physiotherapy,3,Friday,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,2
+634,3,Diseases of the respiratory system,3,Monday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,4
+635,33,Diseases of the muskuloskeletal system and connective tissue,3,Monday,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,2
+636,3,Physiotherapy,3,Monday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+637,28,Diseases of the eye and adnexa,3,Monday,26,9,28,222.196,99,0,High school,1,0,0,2,69,169,24,8
+638,3,Physiotherapy,3,Tuesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
+639,11,Blood donation,3,Wednesday,36,13,33,222.196,99,0,High school,2,1,0,1,90,172,30,8
+640,9,Unjustified absence,3,Wednesday,14,16,58,222.196,99,0,High school,2,0,0,1,65,172,22,2
+641,3,Physiotherapy,3,Wednesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,2
+642,33,Blood donation,3,Thursday,25,14,47,222.196,99,0,High school,2,0,0,1,86,165,32,3
+643,3,Physiotherapy,3,Thursday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+644,22,Blood donation,3,Friday,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,2
+645,3,Physiotherapy,3,Friday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+646,3,Physiotherapy,3,Tuesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+647,16,Blood donation,3,Wednesday,15,24,46,222.196,99,0,High school,2,1,1,0,75,175,25,8
+648,14,Diseases of the muskuloskeletal system and connective tissue,3,Wednesday,12,14,34,222.196,99,0,High school,2,1,0,0,95,196,25,24
+649,3,Physiotherapy,3,Wednesday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+650,3,Physiotherapy,3,Thursday,51,18,38,222.196,99,0,High school,0,1,0,0,89,170,31,3
+651,22,Diseases of the muskuloskeletal system and connective tissue,3,Monday,26,9,30,222.196,99,0,Postgraduate,0,0,0,0,56,171,19,2
+652,11,"Injury, poisoning, and certain other consequences of external cause",3,Monday,36,13,33,222.196,99,0,High school,2,1,0,1,90,172,30,104
+653,13,Medical consultation,3,Wednesday,17,12,31,222.196,99,0,High school,3,1,0,0,70,169,25,8
+654,28,Diseases of the muskuloskeletal system and connective tissue,4,Monday,26,9,28,246.288,91,0,High school,1,0,0,2,69,169,24,8
+655,34,Diseases of the respiratory system,4,Monday,10,10,37,246.288,91,0,High school,0,0,0,0,83,172,28,8
+656,10,"Injury, poisoning, and certain other consequences of external cause",4,Tuesday,52,3,28,246.288,91,0,High school,1,1,0,4,80,172,27,8
+657,33,"Injury, poisoning, and certain other consequences of external cause",4,Wednesday,25,14,47,246.288,91,0,High school,2,0,0,1,86,165,32,8
+658,6,Diseases of the muskuloskeletal system and connective tissue,4,Thursday,29,13,33,246.288,91,0,High school,2,0,0,2,69,167,25,8
+659,22,Physiotherapy,4,Friday,26,9,30,246.288,91,0,Postgraduate,0,0,0,0,56,171,19,2
+660,13,Diseases of the eye and adnexa,4,Monday,17,12,31,246.288,91,0,High school,3,1,0,0,70,169,25,24
+661,17,Certain conditions originating in the prenatal period,4,Tuesday,22,17,40,246.288,91,0,Graduate,2,0,1,0,63,170,22,2
+662,36,Blood donation,4,Tuesday,13,18,50,246.288,91,0,High school,1,1,0,0,98,178,31,3
+663,10,Blood donation,4,Tuesday,52,3,28,246.288,91,0,High school,1,1,0,4,80,172,27,2
+664,34,Diseases of the respiratory system,4,Wednesday,10,10,37,246.288,91,0,High school,0,0,0,0,83,172,28,2
+665,1,Medical consultation,4,Friday,11,14,37,246.288,91,0,Postgraduate,1,0,0,1,88,172,29,8
+666,22,Physiotherapy,4,Friday,26,9,30,246.288,91,0,Postgraduate,0,0,0,0,56,171,19,2
+667,28,"Injury, poisoning, and certain other consequences of external cause",4,Monday,26,9,28,246.288,91,0,High school,1,0,0,2,69,169,24,8
+668,25,Certain conditions originating in the prenatal period,4,Tuesday,16,8,32,246.288,91,0,Postgraduate,0,0,0,0,75,178,25,3
+669,22,Physiotherapy,4,Friday,26,9,30,246.288,91,0,Postgraduate,0,0,0,0,56,171,19,2
+670,14,Dental Consultation,4,Tuesday,12,14,34,246.288,91,0,High school,2,1,0,0,95,196,25,4
+671,28,"Injury, poisoning, and certain other consequences of external cause",4,Thursday,26,9,28,246.288,91,0,High school,1,0,0,2,69,169,24,8
+672,36,Diseases of the genitourinary system,4,Thursday,13,18,50,246.288,91,0,High school,1,1,0,0,98,178,31,2
+673,22,Physiotherapy,4,Friday,26,9,30,246.288,91,0,Postgraduate,0,0,0,0,56,171,19,2
+674,1,Medical consultation,5,Monday,11,14,37,237.656,99,0,Postgraduate,1,0,0,1,88,172,29,8
+675,29,"Injury, poisoning, and certain other consequences of external cause",5,Wednesday,15,15,41,237.656,99,0,Master and Doctor,2,1,0,2,94,182,28,3
+676,25,Dental Consultation,5,Wednesday,16,8,32,237.656,99,0,Postgraduate,0,0,0,0,75,178,25,2
+677,34,Diseases of the ear and mastoid process,5,Wednesday,10,10,37,237.656,99,0,High school,0,0,0,0,83,172,28,3
+678,5,Patient follow-up,5,Wednesday,20,13,43,237.656,99,0,High school,1,1,0,0,106,167,38,8
+679,22,Diseases of the muskuloskeletal system and connective tissue,5,Thursday,26,9,30,237.656,99,0,Postgraduate,0,0,0,0,56,171,19,1
+680,15,Dental Consultation,5,Thursday,31,12,40,237.656,99,0,High school,1,1,0,1,73,171,25,2
+681,29,Diseases of the genitourinary system,5,Thursday,15,15,41,237.656,99,0,Master and Doctor,2,1,0,2,94,182,28,8
+682,26,"Injury, poisoning, and certain other consequences of external cause",5,Friday,26,13,43,237.656,99,0,High school,2,1,1,1,77,175,25,64
+683,29,Medical consultation,5,Friday,15,15,41,237.656,99,0,Master and Doctor,2,1,0,2,94,182,28,8
+684,22,Physiotherapy,5,Friday,26,9,30,237.656,99,0,Postgraduate,0,0,0,0,56,171,19,2
+685,36,Blood donation,5,Monday,13,18,50,237.656,99,0,High school,1,1,0,0,98,178,31,2
+686,36,Mental and behavioral disorders,5,Tuesday,13,18,50,237.656,99,0,High school,1,1,0,0,98,178,31,3
+687,34,Dental Consultation,5,Tuesday,10,10,37,237.656,99,0,High school,0,0,0,0,83,172,28,1
+688,36,No reason given,5,Tuesday,13,18,50,237.656,99,1,High school,1,1,0,0,98,178,31,0
+689,22,Physiotherapy,5,Wednesday,26,9,30,237.656,99,0,Postgraduate,0,0,0,0,56,171,19,2
+690,23,No reason given,5,Wednesday,49,11,36,237.656,99,1,High school,2,0,1,4,65,174,21,0
+691,17,Certain conditions originating in the prenatal period,5,Friday,22,17,40,237.656,99,0,Graduate,2,0,1,0,63,170,22,1
+692,14,Diseases of the respiratory system,5,Monday,12,14,34,237.656,99,0,High school,2,1,0,0,95,196,25,48
+693,25,Diseases of the respiratory system,5,Monday,16,8,32,237.656,99,0,Postgraduate,0,0,0,0,75,178,25,8
+694,15,Medical consultation,5,Wednesday,31,12,40,237.656,99,0,High school,1,1,0,1,73,171,25,8
+695,17,Diseases of the respiratory system,5,Wednesday,22,17,40,237.656,99,0,Graduate,2,0,1,0,63,170,22,8
+696,28,Diseases of the nervous system,5,Wednesday,26,9,28,237.656,99,0,High school,1,0,0,2,69,169,24,3
+697,18,Diseases of the respiratory system,5,Thursday,16,4,28,237.656,99,0,Graduate,0,0,0,0,84,182,25,8
+698,25,Blood donation,5,Thursday,16,8,32,237.656,99,0,Postgraduate,0,0,0,0,75,178,25,2
+699,15,Dental Consultation,5,Thursday,31,12,40,237.656,99,0,High school,1,1,0,1,73,171,25,2
+700,22,Physiotherapy,5,Friday,26,9,30,237.656,99,0,Postgraduate,0,0,0,0,56,171,19,2
+701,10,Diseases of the eye and adnexa,5,Monday,52,3,28,237.656,99,0,High school,1,1,0,4,80,172,27,8
+702,14,Blood donation,5,Wednesday,12,14,34,237.656,99,0,High school,2,1,0,0,95,196,25,2
+703,17,Unjustified absence,5,Friday,22,17,40,237.656,99,0,Graduate,2,0,1,0,63,170,22,8
+704,14,Diseases of the respiratory system,5,Friday,12,14,34,237.656,99,0,High school,2,1,0,0,95,196,25,8
+705,28,Diseases of the digestive system,5,Monday,26,9,28,237.656,99,0,High school,1,0,0,2,69,169,24,1
+706,16,Diseases of the eye and adnexa,6,Wednesday,15,24,46,275.089,96,0,High school,2,1,1,0,75,175,25,8
+707,22,Physiotherapy,6,Wednesday,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,3
+708,34,Patient follow-up,6,Friday,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,8
+709,34,Diseases of the respiratory system,6,Wednesday,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,8
+710,23,Medical consultation,6,Thursday,49,11,36,275.089,96,0,High school,2,0,1,4,65,174,21,8
+711,36,"Injury, poisoning, and certain other consequences of external cause",6,Thursday,13,18,50,275.089,96,0,High school,1,1,0,0,98,178,31,24
+712,12,"Injury, poisoning, and certain other consequences of external cause",6,Friday,51,1,31,275.089,96,0,Graduate,1,1,0,8,68,178,21,8
+713,22,Physiotherapy,6,Friday,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,2
+714,2,No reason given,6,Monday,29,12,48,275.089,96,1,High school,1,0,1,5,88,163,33,0
+715,21,No reason given,6,Monday,11,8,33,275.089,96,1,Graduate,0,0,0,0,79,178,25,0
+716,36,"Injury, poisoning, and certain other consequences of external cause",6,Thursday,13,18,50,275.089,96,0,High school,1,1,0,0,98,178,31,3
+717,22,Diseases of the muskuloskeletal system and connective tissue,6,Thursday,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,2
+718,15,Dental Consultation,6,Thursday,31,12,40,275.089,96,0,High school,1,1,0,1,73,171,25,2
+719,22,Diseases of the muskuloskeletal system and connective tissue,6,Monday,26,9,30,275.089,96,0,Postgraduate,0,0,0,0,56,171,19,3
+720,34,Unjustified absence,6,Monday,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,3
+721,12,Medical consultation,6,Thursday,51,1,31,275.089,96,0,Graduate,1,1,0,8,68,178,21,8
+722,34,Diseases of the ear and mastoid process,6,Friday,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,2
+723,34,Diseases of the respiratory system,6,Wednesday,10,10,37,275.089,96,0,High school,0,0,0,0,83,172,28,3
+724,12,Medical consultation,6,Wednesday,51,1,31,275.089,96,0,Graduate,1,1,0,8,68,178,21,3
+725,5,Patient follow-up,7,Wednesday,20,13,43,264.60400000000004,93,0,High school,1,1,0,0,106,167,38,4
+726,12,"Injury, poisoning, and certain other consequences of external cause",7,Friday,51,1,31,264.60400000000004,93,0,Graduate,1,1,0,8,68,178,21,2
+727,9,Diseases of the nervous system,7,Monday,14,16,58,264.60400000000004,93,0,High school,2,0,0,1,65,172,22,8
+728,34,Dental Consultation,7,Monday,10,10,37,264.60400000000004,93,0,High school,0,0,0,0,83,172,28,4
+729,9,Diseases of the nervous system,7,Tuesday,14,16,58,264.60400000000004,93,0,High school,2,0,0,1,65,172,22,120
+730,6,Medical consultation,7,Tuesday,29,13,33,264.60400000000004,93,0,High school,2,0,0,2,69,167,25,16
+731,34,Blood donation,7,Wednesday,10,10,37,264.60400000000004,93,0,High school,0,0,0,0,83,172,28,2
+732,10,Medical consultation,7,Wednesday,52,3,28,264.60400000000004,93,0,High school,1,1,0,4,80,172,27,8
+733,28,Medical consultation,7,Wednesday,26,9,28,264.60400000000004,93,0,High school,1,0,0,2,69,169,24,8
+734,13,Diseases of the muskuloskeletal system and connective tissue,7,Monday,17,12,31,264.60400000000004,93,0,High school,3,1,0,0,70,169,25,80
+735,11,Diseases of the genitourinary system,7,Tuesday,36,13,33,264.60400000000004,93,0,High school,2,1,0,1,90,172,30,8
+736,1,Diseases of the digestive system,7,Tuesday,11,14,37,264.60400000000004,93,0,Postgraduate,1,0,0,1,88,172,29,4
+737,4,No reason given,0,Tuesday,14,13,40,271.219,95,0,High school,1,1,0,8,98,170,34,0
+738,8,No reason given,0,Wednesday,35,14,39,271.219,95,0,High school,2,1,0,2,100,170,35,0
+739,35,No reason given,0,Friday,45,14,53,271.219,95,0,High school,1,0,0,1,77,175,25,0
