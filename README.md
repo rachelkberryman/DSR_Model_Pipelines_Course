@@ -1,7 +1,7 @@
 # DSR_Model_Pipelines_Course
 ----------------------------------------
 Course in Model Pipelines for Data Science Retreat.
-Last taught **Saturday and Sunday, April 12 & 13 2019**.
+Last taught **Saturday and Sunday, April 13 & 14 2019**.
 
 Learning ourcomes of this course are:
 - Basic understanding of sk-learn pipelines and their usecases.
